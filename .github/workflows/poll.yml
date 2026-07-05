@@ -2,8 +2,10 @@ name: Poll job sources
 
 on:
   schedule:
-    # Best-effort: "*/20" means roughly every 20-35 minutes on GitHub's side.
-    - cron: "*/20 * * * *"
+    # Best-effort: 5 minutes is GitHub's minimum, and tight schedules get
+    # delayed under load - expect roughly 5-15 minutes in practice. Free on
+    # a public repo.
+    - cron: "*/5 * * * *"
   workflow_dispatch:
 
 # Never let two polls run at once: an overlapping run would race the state
