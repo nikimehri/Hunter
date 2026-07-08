@@ -163,7 +163,11 @@ sources:
 # case-insensitive SUBSTRING on the title - keywords like "sr " use spacing
 # on purpose so they don't swallow "SRE".
 filters:
-  include_keywords: [engineer, developer, software, sre]
+  # "intern" also covers "internship" by substring; accepted false positives:
+  # non-engineering "Internal ..." / "International ..." titles that survive
+  # the exclusion list (e.g. "Internal Auditor"). "co-op" and "coop" are both
+  # needed because boards spell it either way.
+  include_keywords: [engineer, developer, software, sre, intern, co-op, coop]
   exclude_keywords:
     - senior
     - "sr."
