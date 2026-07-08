@@ -2,9 +2,11 @@ name: Poll job sources
 
 on:
   schedule:
-    # Best-effort: 5 minutes is GitHub's minimum, and tight schedules get
-    # delayed under load - expect roughly 5-15 minutes in practice. Free on
-    # a public repo.
+    # GitHub fires scheduled workflows late (5-15+ min gaps even on a */5
+    # cron), so the cron is only a trigger: each run then polls in a
+    # 5-minute loop for ~25 minutes (see the poll step), and the concurrency
+    # queue chains the next scheduled run behind it. Net effect: one poll
+    # roughly every 5 minutes. Free on a public repo.
     - cron: "*/5 * * * *"
   workflow_dispatch:
 
@@ -20,33 +22,38 @@ permissions:
 jobs:
   poll:
     runs-on: ubuntu-latest
-    timeout-minutes: 10
+    timeout-minutes: 35
     steps:
       - uses: actions/checkout@v4
 
       - uses: actions/setup-python@v5
         with:
           python-version: "3.12"
+          cache: pip
 
       - name: Install dependencies
         run: pip install -r requirements.txt
 
-      - name: Poll sources and notify
+      - name: Poll every 5 minutes and notify
         env:
           TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
           TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
-        run: python -m scraper.main
-
-      - name: Commit updated state
         run: |
-          if git diff --quiet seen_jobs.json; then
-            echo "No state changes."
-            exit 0
-          fi
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add seen_jobs.json
-          git commit -m "Update seen jobs state"
-          # A human may have pushed while we ran; rebase our state commit on top.
-          git pull --rebase origin "${GITHUB_REF_NAME}"
-          git push
+          # State is committed after every iteration, not once at the end:
+          # if a later iteration dies, jobs already notified must stay
+          # recorded or the next run would re-send them.
+          for i in 1 2 3 4 5; do
+            python -m scraper.main
+            if git diff --quiet seen_jobs.json; then
+              echo "Iteration $i: no state changes."
+            else
+              git add seen_jobs.json
+              git commit -m "Update seen jobs state"
+              # A human may have pushed while we ran; rebase our state commit on top.
+              git pull --rebase origin "${GITHUB_REF_NAME}"
+              git push
+            fi
+            if [ "$i" -lt 5 ]; then sleep 300; fi
+          done
