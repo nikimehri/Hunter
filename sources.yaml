@@ -87,204 +87,62 @@ filters:
     - director
     - "head of"
     - "vp "
-  # Keep only Canada / US postings. Matching is case-insensitive SUBSTRING on
-  # the location, so every term below was checked against real location
-  # strings from the current sources before being added. Substring traps to
-  # keep in mind when editing:
-  #   - never add bare "us" (matches Australia), "la" (Ireland, Poland),
-  #     "sea" or "chi" (redundant anyway), "cambridge" (Cambridge, UK) or
-  #     "durham" (Durham, UK) - those two are covered by ", ma" / ", nc".
-  #   - state abbreviations are ", xx" comma forms; ", in", ", de", ", me"
-  #     and ", ne" are deliberately missing (they match "Bengaluru, India",
-  #     "Copenhagen, Denmark", "Mexico City, Mexico", "Amsterdam,
-  #     Netherlands") - the cities they would cover are listed by name.
-  #   - "remote" alone lets a few foreign-remote postings through
-  #     ("Remote - India"), but US remote comes in too many shapes to
-  #     enumerate ("US-Remote", "Remote (US)", "Remote in the US",
-  #     "US-West Remote", bare "Remote") and missing those is worse.
-  # Known gaps: SimplifyJobs' bare "US" and "LA" shorthands can't be matched
-  # without those traps; the handful of such postings are dropped.
+  # Keep only Canada postings. Matching is case-insensitive SUBSTRING on the
+  # location, so every term below was checked against real location strings
+  # from the current sources before being added. Almost every Canadian
+  # posting says "... Canada" or uses a ", XX" province code; city names
+  # cover the SimplifyJobs shorthands ("Toronto", "NYC, Toronto, Remote in
+  # Canada"). Substring traps to keep in mind when editing:
+  #   - never add bare "us" (matches Australia), "markham" (Markham, IL),
+  #     "surrey" or "halifax" or "victoria" (Surrey/Halifax UK, Victoria
+  #     AUS), or ", ns" (matches "Sydney, NSW") - those cities' postings
+  #     all carry ", ON" / ", BC" / ", Canada" markers anyway.
+  #   - bare "remote" is deliberately absent: it would match "Remote US",
+  #     "Remote - India" and every other foreign remote. Canadian remote
+  #     postings say "Remote Canada", "Remote (Canada)", "Remote in
+  #     Canada" or "CA-Remote", which "canada" / "ca-remote" catch.
+  # Known gap: a bare countryless "Remote" is dropped; re-add "remote" here
+  # if those turn out to matter. Accepted false positives: "Waterloo, IA"
+  # and "Vancouver, WA" (one posting each in current data) ride in on the
+  # city names, which are worth keeping for the shorthand-only postings.
   locations:
-    # countries / broad
     - canada
-    - united states
-    - usa
-    - u.s.
-    - north america
-    - remote
-    # canada: cities and provinces
+    - ca-remote
+    - can-remote
+    # cities (unambiguous names only, see traps above)
     - toronto
     - vancouver
     - montreal
+    - "montréal"
     - ottawa
     - waterloo
     - kitchener
     - mississauga
+    - brampton
+    - burnaby
     - calgary
     - edmonton
     - winnipeg
-    - halifax
-    - quebec
+    - saskatoon
+    # provinces
     - ontario
+    - quebec
+    - "québec"
     - alberta
     - british columbia
-    - victoria, bc
+    - saskatchewan
+    - manitoba
+    - nova scotia
+    - new brunswick
+    - newfoundland
+    # province codes, ", xx" comma forms
     - ", on"
     - ", bc"
     - ", ab"
     - ", qc"
     - ", mb"
-    # us: major hubs and shorthands (NYC / SF are SimplifyJobs forms)
-    - new york
-    - nyc
-    - brooklyn
-    - san francisco
-    - san fransisco
-    - sf
-    - bay area
-    - palo alto
-    - mountain view
-    - menlo park
-    - sunnyvale
-    - santa clara
-    - san jose
-    - oakland
-    - san mateo
-    - redwood city
-    - cupertino
-    - seattle
-    - bellevue
-    - redmond
-    - austin
-    - dallas
-    - houston
-    - boston
-    - chicago
-    - denver
-    - boulder
-    - atlanta
-    - los angeles
-    - irvine
-    - san diego
-    - washington
-    - pittsburgh
-    - philadelphia
-    - phoenix
-    - miami
-    - salt lake
-    - raleigh
-    - charlotte
-    - minneapolis
-    - portland
-    - nashville
-    - columbus
-    - detroit
-    - st. louis
-    - baltimore
-    - cincinnati
-    # us: cities standing in for the trap-prone state abbreviations above
-    - indianapolis
-    - fort wayne
-    - wilmington
-    - honolulu
-    - little rock
-    - bentonville
-    # us: state abbreviations, ", xx" comma forms
-    - ", ca"
-    - ", ny"
-    - ", wa"
-    - ", tx"
-    - ", ma"
-    - ", il"
-    - ", ga"
-    - ", pa"
-    - ", va"
-    - ", nc"
-    - ", nj"
-    - ", oh"
-    - ", mi"
-    - ", mn"
-    - ", mo"
-    - ", tn"
-    - ", az"
-    - ", ut"
-    - ", fl"
-    - ", md"
-    - ", dc"
-    - ", d.c."
-    - ", wi"
-    - ", ks"
-    - ", ky"
-    - ", or"
-    - ", co"
-    - ", al"
-    - ", la"
-    - ", sc"
-    - ", ok"
-    - ", ia"
-    - ", ct"
-    - ", nv"
-    - ", hi"
-    - ", nh"
-    - ", ri"
-    - ", vt"
-    - ", nm"
-    - ", nd"
-    - ", sd"
-    - ", mt"
-    - ", wy"
-    - ", wv"
-    - ", ms"
-    - ", ak"
-    - ", id"
-    # us: full state names (some feeds spell them out)
-    - alabama
-    - alaska
-    - arizona
-    - arkansas
-    - california
-    - colorado
-    - connecticut
-    - delaware
-    - florida
-    - georgia
-    - hawaii
-    - idaho
-    - illinois
-    - indiana
-    - iowa
-    - kansas
-    - kentucky
-    - louisiana
-    - maine
-    - maryland
-    - massachusetts
-    - michigan
-    - minnesota
-    - mississippi
-    - missouri
-    - montana
-    - nebraska
-    - nevada
-    - new hampshire
-    - new jersey
-    - new mexico
-    - north carolina
-    - north dakota
-    - ohio
-    - oklahoma
-    - oregon
-    - pennsylvania
-    - rhode island
-    - south carolina
-    - south dakota
-    - tennessee
-    - texas
-    - utah
-    - vermont
-    - virginia
-    - wisconsin
-    - wyoming
+    - ", sk"
+    - ", nb"
   # Drop jobs whose posted date is older than this. Aggregator repos backfill
   # month-old postings that would otherwise alert as "new"; undated jobs pass.
   max_age_days: 14
