@@ -148,7 +148,7 @@
       "consecutive_failures": 0,
       "warned_failures": false,
       "warned_zero": false,
-      "zero_since": "2026-07-09"
+      "zero_since": null
     },
     "greenhouse/adyen": {
       "consecutive_failures": 0,
@@ -24914,6 +24914,12 @@
     "greenhouse:brex:8627514002": {
       "seen_at": "2026-07-09T23:05:46+00:00"
     },
+    "greenhouse:brex:8627541002": {
+      "seen_at": "2026-07-09T23:35:53+00:00"
+    },
+    "greenhouse:brex:8627546002": {
+      "seen_at": "2026-07-09T23:35:53+00:00"
+    },
     "greenhouse:chime:8121830002": {
       "seen_at": "2026-07-05T22:02:14+00:00"
     },
@@ -34595,6 +34601,9 @@
     "workday:cibc:2613249": {
       "seen_at": "2026-07-08T16:51:57+00:00"
     },
+    "workday:cibc:2613262": {
+      "seen_at": "2026-07-09T23:35:53+00:00"
+    },
     "workday:cibc:2613283": {
       "seen_at": "2026-07-08T17:47:45+00:00"
     },
@@ -37859,6 +37868,9 @@
     "workday:intel:JR0281072": {
       "seen_at": "2026-07-08T16:14:43+00:00"
     },
+    "workday:intel:JR0282070": {
+      "seen_at": "2026-07-09T23:35:53+00:00"
+    },
     "workday:intel:JR0282484": {
       "seen_at": "2026-07-08T20:36:02+00:00"
     },
@@ -38503,6 +38515,9 @@
     },
     "workday:mastercard:R-281637": {
       "seen_at": "2026-07-08T16:14:43+00:00"
+    },
+    "workday:mastercard:R-281742": {
+      "seen_at": "2026-07-09T23:35:53+00:00"
     },
     "workday:mastercard:R-281765": {
       "seen_at": "2026-07-09T14:34:49+00:00"
@@ -41536,6 +41551,9 @@
     },
     "workday:redhat:R-057347": {
       "seen_at": "2026-07-08T22:16:11+00:00"
+    },
+    "workday:redhat:R-057370": {
+      "seen_at": "2026-07-09T23:35:53+00:00"
     },
     "workday:redhat:R-057388": {
       "seen_at": "2026-07-08T16:14:43+00:00"
