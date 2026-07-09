@@ -148,7 +148,7 @@
       "consecutive_failures": 0,
       "warned_failures": false,
       "warned_zero": false,
-      "zero_since": "2026-07-09"
+      "zero_since": null
     },
     "greenhouse/adyen": {
       "consecutive_failures": 0,
@@ -37661,6 +37661,9 @@
     "workday:redhat:R-058330": {
       "seen_at": "2026-07-08T16:14:43+00:00"
     },
+    "workday:redhat:R-058389": {
+      "seen_at": "2026-07-09T02:04:09+00:00"
+    },
     "workday:redhat:R-058393": {
       "seen_at": "2026-07-08T16:14:43+00:00"
     },
@@ -39973,6 +39976,9 @@
     },
     "workday:zoom:R18878": {
       "seen_at": "2026-07-08T16:14:43+00:00"
+    },
+    "workday:zoom:R18905": {
+      "seen_at": "2026-07-09T02:04:09+00:00"
     },
     "workday:zoom:R18922": {
       "seen_at": "2026-07-08T16:14:43+00:00"
