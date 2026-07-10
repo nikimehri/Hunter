@@ -148,7 +148,7 @@
       "consecutive_failures": 0,
       "warned_failures": false,
       "warned_zero": false,
-      "zero_since": null
+      "zero_since": "2026-07-10"
     },
     "greenhouse/adyen": {
       "consecutive_failures": 0,
@@ -24332,6 +24332,9 @@
     "greenhouse:block:5318418008": {
       "seen_at": "2026-07-09T21:47:16+00:00"
     },
+    "greenhouse:block:5322195008": {
+      "seen_at": "2026-07-10T17:15:13+00:00"
+    },
     "greenhouse:brex:7595422002": {
       "seen_at": "2026-07-05T22:02:14+00:00"
     },
@@ -39902,6 +39905,9 @@
     "workday:mastercard:R-277268": {
       "seen_at": "2026-07-10T13:23:29+00:00"
     },
+    "workday:mastercard:R-277293": {
+      "seen_at": "2026-07-10T17:15:13+00:00"
+    },
     "workday:mastercard:R-277339": {
       "seen_at": "2026-07-09T09:21:19+00:00"
     },
@@ -40684,6 +40690,9 @@
     },
     "workday:micron:JR106069": {
       "seen_at": "2026-07-10T10:37:39+00:00"
+    },
+    "workday:micron:JR106083": {
+      "seen_at": "2026-07-10T17:15:13+00:00"
     },
     "workday:micron:JR69852": {
       "seen_at": "2026-07-09T13:37:06+00:00"
@@ -42316,6 +42325,9 @@
     },
     "workday:paloaltonetworks:JR-015535": {
       "seen_at": "2026-07-09T13:59:35+00:00"
+    },
+    "workday:paloaltonetworks:JR-016029": {
+      "seen_at": "2026-07-10T17:15:13+00:00"
     },
     "workday:paloaltonetworks:JR-016046": {
       "seen_at": "2026-07-08T16:14:43+00:00"
