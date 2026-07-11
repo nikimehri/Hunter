@@ -148,7 +148,7 @@
       "consecutive_failures": 0,
       "warned_failures": false,
       "warned_zero": false,
-      "zero_since": "2026-07-11"
+      "zero_since": null
     },
     "greenhouse/adyen": {
       "consecutive_failures": 0,
@@ -7459,6 +7459,9 @@
     },
     "ashby:ramp:fbc42a9a-6fc2-4061-9511-502ee4f2a60a": {
       "seen_at": "2026-07-05T21:08:29+00:00"
+    },
+    "ashby:ramp:ffc09fc0-7785-48db-a203-a148f62534be": {
+      "seen_at": "2026-07-11T20:28:43+00:00"
     },
     "ashby:render:17576493-bb92-4181-95e7-e4585f7b6be7": {
       "seen_at": "2026-07-08T16:14:43+00:00"
@@ -50194,6 +50197,9 @@
     },
     "workday:workday:JR-0107737": {
       "seen_at": "2026-07-08T16:14:43+00:00"
+    },
+    "workday:workday:JR-0107750": {
+      "seen_at": "2026-07-11T20:28:43+00:00"
     },
     "workday:workday:JR-0107764": {
       "seen_at": "2026-07-08T16:14:43+00:00"
