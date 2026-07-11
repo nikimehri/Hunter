@@ -200,6 +200,10 @@ filters:
   # and "Vancouver, WA" (one posting each in current data) ride in on the
   # city names, which are worth keeping for the shorthand-only postings.
   locations:
+    - united states
+    - USA
+    - America
+    - US
     - canada
     - ca-remote
     - can-remote
