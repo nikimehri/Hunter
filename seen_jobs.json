@@ -148,7 +148,7 @@
       "consecutive_failures": 0,
       "warned_failures": false,
       "warned_zero": false,
-      "zero_since": "2026-07-13"
+      "zero_since": null
     },
     "greenhouse/adyen": {
       "consecutive_failures": 0,
@@ -32537,6 +32537,9 @@
     "greenhouse:stripe:8055701": {
       "seen_at": "2026-07-10T21:03:04+00:00"
     },
+    "greenhouse:stripe:8055930": {
+      "seen_at": "2026-07-13T23:35:34+00:00"
+    },
     "greenhouse:stripe:8060324": {
       "seen_at": "2026-07-13T18:54:46+00:00"
     },
@@ -33788,11 +33791,17 @@
     "workday:adobe:R170105": {
       "seen_at": "2026-07-08T16:14:43+00:00"
     },
+    "workday:adobe:R170133": {
+      "seen_at": "2026-07-13T23:35:35+00:00"
+    },
     "workday:adobe:R170168": {
       "seen_at": "2026-07-08T16:14:43+00:00"
     },
     "workday:adobe:R170201": {
       "seen_at": "2026-07-08T16:14:43+00:00"
+    },
+    "workday:adobe:R170225": {
+      "seen_at": "2026-07-13T23:35:35+00:00"
     },
     "workday:adobe:R170242": {
       "seen_at": "2026-07-08T16:14:43+00:00"
@@ -33820,6 +33829,9 @@
     },
     "workday:adobe:R170371": {
       "seen_at": "2026-07-08T23:40:35+00:00"
+    },
+    "workday:adobe:R170441": {
+      "seen_at": "2026-07-13T23:35:35+00:00"
     },
     "workday:adobe:R170448": {
       "seen_at": "2026-07-13T20:05:41+00:00"
@@ -41285,6 +41297,9 @@
     "workday:ebay:R0075743": {
       "seen_at": "2026-07-08T16:14:43+00:00"
     },
+    "workday:ebay:R0075768": {
+      "seen_at": "2026-07-13T23:35:35+00:00"
+    },
     "workday:ebay:R0075825": {
       "seen_at": "2026-07-13T09:58:04+00:00"
     },
@@ -43129,6 +43144,9 @@
     },
     "workday:hp:3165494": {
       "seen_at": "2026-07-09T09:21:19+00:00"
+    },
+    "workday:hp:3165511": {
+      "seen_at": "2026-07-13T23:35:35+00:00"
     },
     "workday:hp:3165525": {
       "seen_at": "2026-07-08T16:14:43+00:00"
@@ -47501,6 +47519,9 @@
     "workday:nvidia:JR2020058": {
       "seen_at": "2026-07-09T22:51:50+00:00"
     },
+    "workday:nvidia:JR2020059": {
+      "seen_at": "2026-07-13T23:35:35+00:00"
+    },
     "workday:nvidia:JR2020060": {
       "seen_at": "2026-07-08T16:14:43+00:00"
     },
@@ -49054,6 +49075,9 @@
     },
     "workday:rbc:R-0000174575": {
       "seen_at": "2026-07-13T17:26:32+00:00"
+    },
+    "workday:rbc:R-0000174603": {
+      "seen_at": "2026-07-13T23:35:35+00:00"
     },
     "workday:rbc:R-0000174650": {
       "seen_at": "2026-07-13T20:05:42+00:00"
@@ -55834,6 +55858,9 @@
     },
     "workday:workday:JR-0107300": {
       "seen_at": "2026-07-13T22:07:00+00:00"
+    },
+    "workday:workday:JR-0107337": {
+      "seen_at": "2026-07-13T23:35:35+00:00"
     },
     "workday:workday:JR-0107348": {
       "seen_at": "2026-07-08T16:14:43+00:00"
