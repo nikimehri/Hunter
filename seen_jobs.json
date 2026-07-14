@@ -142,13 +142,13 @@
       "consecutive_failures": 0,
       "warned_failures": false,
       "warned_zero": false,
-      "zero_since": "2026-07-14"
+      "zero_since": null
     },
     "github/SimplifyJobs/Summer2026-Internships": {
       "consecutive_failures": 0,
       "warned_failures": false,
       "warned_zero": false,
-      "zero_since": "2026-07-14"
+      "zero_since": null
     },
     "greenhouse/adyen": {
       "consecutive_failures": 0,
@@ -331,7 +331,7 @@
       "zero_since": null
     },
     "workday/hpe": {
-      "consecutive_failures": 2,
+      "consecutive_failures": 3,
       "warned_failures": false,
       "warned_zero": false,
       "zero_since": null
@@ -41831,6 +41831,9 @@
     "workday:fis:JR0307873": {
       "seen_at": "2026-07-08T16:14:43+00:00"
     },
+    "workday:fis:JR0307875": {
+      "seen_at": "2026-07-14T05:36:35+00:00"
+    },
     "workday:fis:JR0307877": {
       "seen_at": "2026-07-08T16:14:43+00:00"
     },
@@ -43387,6 +43390,9 @@
     },
     "workday:hp:3165418": {
       "seen_at": "2026-07-09T01:57:14+00:00"
+    },
+    "workday:hp:3165419": {
+      "seen_at": "2026-07-14T05:36:35+00:00"
     },
     "workday:hp:3165445": {
       "seen_at": "2026-07-08T16:14:43+00:00"
@@ -45928,6 +45934,9 @@
     },
     "workday:micron:JR105946": {
       "seen_at": "2026-07-13T17:26:32+00:00"
+    },
+    "workday:micron:JR105958": {
+      "seen_at": "2026-07-14T05:36:35+00:00"
     },
     "workday:micron:JR105974": {
       "seen_at": "2026-07-10T10:30:37+00:00"
@@ -50848,6 +50857,9 @@
     },
     "workday:salesforce:JR333694": {
       "seen_at": "2026-07-10T05:29:03+00:00"
+    },
+    "workday:salesforce:JR333705": {
+      "seen_at": "2026-07-14T05:36:35+00:00"
     },
     "workday:salesforce:JR333750": {
       "seen_at": "2026-07-10T19:04:33+00:00"
@@ -56635,6 +56647,9 @@
     },
     "workday:workday:JR-0108750": {
       "seen_at": "2026-07-13T06:34:28+00:00"
+    },
+    "workday:workday:JR-0108776": {
+      "seen_at": "2026-07-14T05:36:35+00:00"
     },
     "workday:zoom:R15882": {
       "seen_at": "2026-07-08T16:14:43+00:00"
