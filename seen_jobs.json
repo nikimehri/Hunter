@@ -142,13 +142,13 @@
       "consecutive_failures": 0,
       "warned_failures": false,
       "warned_zero": false,
-      "zero_since": "2026-07-14"
+      "zero_since": null
     },
     "github/SimplifyJobs/Summer2026-Internships": {
       "consecutive_failures": 0,
       "warned_failures": false,
       "warned_zero": false,
-      "zero_since": "2026-07-14"
+      "zero_since": null
     },
     "greenhouse/adyen": {
       "consecutive_failures": 0,
@@ -14762,6 +14762,9 @@
     "github:SimplifyJobs/New-Grad-Positions:a2dae56d-603c-4e87-a44a-81f631f6e186": {
       "seen_at": "2026-07-08T22:39:15+00:00"
     },
+    "github:SimplifyJobs/New-Grad-Positions:a2e8a9b2-6542-4def-9b6a-0b3b7ca9e7d8": {
+      "seen_at": "2026-07-14T12:32:24+00:00"
+    },
     "github:SimplifyJobs/New-Grad-Positions:a3061397-527d-4219-9992-8ecb3226682a": {
       "seen_at": "2026-07-05T21:08:29+00:00"
     },
@@ -16085,6 +16088,9 @@
     "github:SimplifyJobs/New-Grad-Positions:cbfc5878-bec9-4a8a-b794-546c3dd5cc1e": {
       "seen_at": "2026-07-05T21:08:29+00:00"
     },
+    "github:SimplifyJobs/New-Grad-Positions:cbfeef3e-9b1c-4335-a876-5175843ac797": {
+      "seen_at": "2026-07-14T12:32:24+00:00"
+    },
     "github:SimplifyJobs/New-Grad-Positions:cc585e28-648f-4a01-97a4-6befa91433f0": {
       "seen_at": "2026-07-09T22:37:54+00:00"
     },
@@ -16552,6 +16558,9 @@
     },
     "github:SimplifyJobs/New-Grad-Positions:dae38bd6-f6f4-4963-bc94-86fbfaeb5767": {
       "seen_at": "2026-07-05T21:08:29+00:00"
+    },
+    "github:SimplifyJobs/New-Grad-Positions:db02fc9d-18c1-4cf1-8984-872d4e1385f0": {
+      "seen_at": "2026-07-14T12:32:24+00:00"
     },
     "github:SimplifyJobs/New-Grad-Positions:db217be8-1ede-476b-9b82-64ff5f67b524": {
       "seen_at": "2026-07-05T21:08:29+00:00"
@@ -36422,6 +36431,12 @@
     "workday:bmo:R260020706": {
       "seen_at": "2026-07-13T17:40:40+00:00"
     },
+    "workday:bmo:R260020713": {
+      "seen_at": "2026-07-14T12:32:24+00:00"
+    },
+    "workday:bmo:R260020715": {
+      "seen_at": "2026-07-14T12:32:24+00:00"
+    },
     "workday:bmo:R260020756": {
       "seen_at": "2026-07-13T17:26:32+00:00"
     },
@@ -43406,11 +43421,17 @@
     "workday:fmr:2132155": {
       "seen_at": "2026-07-09T14:49:41+00:00"
     },
+    "workday:fmr:2132157": {
+      "seen_at": "2026-07-14T12:32:24+00:00"
+    },
     "workday:fmr:2132163": {
       "seen_at": "2026-07-09T13:51:50+00:00"
     },
     "workday:fmr:2132167": {
       "seen_at": "2026-07-13T20:26:44+00:00"
+    },
+    "workday:fmr:2132171": {
+      "seen_at": "2026-07-14T12:32:24+00:00"
     },
     "workday:fmr:2132187": {
       "seen_at": "2026-07-10T18:34:58+00:00"
@@ -43949,6 +43970,9 @@
     "workday:hp:3165861": {
       "seen_at": "2026-07-10T18:57:38+00:00"
     },
+    "workday:hp:3165935": {
+      "seen_at": "2026-07-14T12:32:24+00:00"
+    },
     "workday:hp:3165962": {
       "seen_at": "2026-07-08T16:14:43+00:00"
     },
@@ -44437,6 +44461,9 @@
     },
     "workday:hpe:1209114": {
       "seen_at": "2026-07-08T16:14:43+00:00"
+    },
+    "workday:hpe:1209142": {
+      "seen_at": "2026-07-14T12:32:24+00:00"
     },
     "workday:hpe:1209143": {
       "seen_at": "2026-07-14T09:22:33+00:00"
@@ -46075,6 +46102,9 @@
     },
     "workday:micron:JR102554": {
       "seen_at": "2026-07-08T16:14:43+00:00"
+    },
+    "workday:micron:JR102590": {
+      "seen_at": "2026-07-14T12:32:24+00:00"
     },
     "workday:micron:JR102746": {
       "seen_at": "2026-07-09T05:35:54+00:00"
@@ -53804,6 +53834,9 @@
     "workday:statestreet:R-788306": {
       "seen_at": "2026-07-09T17:27:48+00:00"
     },
+    "workday:statestreet:R-788356": {
+      "seen_at": "2026-07-14T12:32:24+00:00"
+    },
     "workday:statestreet:R-788432": {
       "seen_at": "2026-07-13T17:26:32+00:00"
     },
@@ -56708,6 +56741,9 @@
     "workday:tsys:R0072704": {
       "seen_at": "2026-07-08T20:04:07+00:00"
     },
+    "workday:tsys:R0072707": {
+      "seen_at": "2026-07-14T12:32:24+00:00"
+    },
     "workday:tsys:R0072722": {
       "seen_at": "2026-07-08T16:14:43+00:00"
     },
@@ -57556,6 +57592,9 @@
     },
     "workday:workday:JR-0108059": {
       "seen_at": "2026-07-08T16:14:43+00:00"
+    },
+    "workday:workday:JR-0108078": {
+      "seen_at": "2026-07-14T12:32:24+00:00"
     },
     "workday:workday:JR-0108085": {
       "seen_at": "2026-07-08T16:14:43+00:00"
