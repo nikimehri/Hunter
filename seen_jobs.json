@@ -148,7 +148,7 @@
       "consecutive_failures": 0,
       "warned_failures": false,
       "warned_zero": false,
-      "zero_since": "2026-07-17"
+      "zero_since": null
     },
     "greenhouse/adyen": {
       "consecutive_failures": 0,
@@ -49217,6 +49217,9 @@
     "workday:fiserv:R-10382518": {
       "seen_at": "2026-07-08T16:14:43+00:00"
     },
+    "workday:fiserv:R-10383638": {
+      "seen_at": "2026-07-17T06:31:46+00:00"
+    },
     "workday:fiserv:R-10383642": {
       "seen_at": "2026-07-17T06:03:32+00:00"
     },
@@ -51235,6 +51238,9 @@
     },
     "workday:hp:3163967": {
       "seen_at": "2026-07-08T16:14:43+00:00"
+    },
+    "workday:hp:3164037": {
+      "seen_at": "2026-07-17T06:31:46+00:00"
     },
     "workday:hp:3164055": {
       "seen_at": "2026-07-09T09:21:19+00:00"
@@ -55495,6 +55501,9 @@
     },
     "workday:micron:JR106091": {
       "seen_at": "2026-07-13T12:28:22+00:00"
+    },
+    "workday:micron:JR106118": {
+      "seen_at": "2026-07-17T06:31:46+00:00"
     },
     "workday:micron:JR106125": {
       "seen_at": "2026-07-16T10:35:40+00:00"
@@ -64274,6 +64283,9 @@
     "workday:salesforce:JR352247": {
       "seen_at": "2026-07-16T23:12:39+00:00"
     },
+    "workday:salesforce:JR352273": {
+      "seen_at": "2026-07-17T06:31:46+00:00"
+    },
     "workday:sec:R105974": {
       "seen_at": "2026-07-15T17:20:59+00:00"
     },
@@ -65431,6 +65443,9 @@
     },
     "workday:spgi:329797": {
       "seen_at": "2026-07-08T16:14:43+00:00"
+    },
+    "workday:spgi:329804": {
+      "seen_at": "2026-07-17T06:31:45+00:00"
     },
     "workday:spgi:329805": {
       "seen_at": "2026-07-08T16:14:43+00:00"
