@@ -148,7 +148,7 @@
       "consecutive_failures": 0,
       "warned_failures": false,
       "warned_zero": false,
-      "zero_since": "2026-07-17"
+      "zero_since": null
     },
     "greenhouse/adyen": {
       "consecutive_failures": 0,
@@ -65848,6 +65848,9 @@
     },
     "workday:statestreet:R-784835": {
       "seen_at": "2026-07-13T19:08:56+00:00"
+    },
+    "workday:statestreet:R-784856": {
+      "seen_at": "2026-07-17T08:32:19+00:00"
     },
     "workday:statestreet:R-784908": {
       "seen_at": "2026-07-14T15:51:07+00:00"
