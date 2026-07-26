@@ -142,13 +142,13 @@
       "consecutive_failures": 0,
       "warned_failures": false,
       "warned_zero": false,
-      "zero_since": "2026-07-26"
+      "zero_since": null
     },
     "github/SimplifyJobs/Summer2026-Internships": {
       "consecutive_failures": 0,
       "warned_failures": false,
       "warned_zero": false,
-      "zero_since": "2026-07-26"
+      "zero_since": null
     },
     "greenhouse/adyen": {
       "consecutive_failures": 0,
@@ -88438,6 +88438,9 @@
     },
     "workday:redhat:R-058086": {
       "seen_at": "2026-07-21T04:01:27+00:00"
+    },
+    "workday:redhat:R-058088": {
+      "seen_at": "2026-07-26T22:03:34+00:00"
     },
     "workday:redhat:R-058109": {
       "seen_at": "2026-07-08T21:38:35+00:00"
