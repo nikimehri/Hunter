@@ -148,7 +148,7 @@
       "consecutive_failures": 0,
       "warned_failures": false,
       "warned_zero": false,
-      "zero_since": "2026-07-30"
+      "zero_since": null
     },
     "greenhouse/adyen": {
       "consecutive_failures": 0,
@@ -43112,6 +43112,9 @@
     "greenhouse:robinhood:8083811": {
       "seen_at": "2026-07-27T16:15:20+00:00"
     },
+    "greenhouse:robinhood:8083818": {
+      "seen_at": "2026-07-30T12:33:48+00:00"
+    },
     "greenhouse:robinhood:8083951": {
       "seen_at": "2026-07-27T16:15:20+00:00"
     },
@@ -73217,6 +73220,9 @@
     "workday:fiserv:R-10395866": {
       "seen_at": "2026-07-13T15:20:50+00:00"
     },
+    "workday:fiserv:R-10395868": {
+      "seen_at": "2026-07-30T12:33:48+00:00"
+    },
     "workday:fiserv:R-10395869": {
       "seen_at": "2026-07-14T17:53:52+00:00"
     },
@@ -93452,6 +93458,9 @@
     "workday:paloaltonetworks:JR-018187": {
       "seen_at": "2026-07-22T12:19:34+00:00"
     },
+    "workday:paloaltonetworks:JR-018188": {
+      "seen_at": "2026-07-30T12:33:48+00:00"
+    },
     "workday:paloaltonetworks:JR-018189": {
       "seen_at": "2026-07-15T09:32:38+00:00"
     },
@@ -99824,6 +99833,9 @@
     "workday:rbc:R-0000182461": {
       "seen_at": "2026-07-29T15:40:20+00:00"
     },
+    "workday:rbc:R-0000182462": {
+      "seen_at": "2026-07-30T12:33:48+00:00"
+    },
     "workday:rbc:R-0000182476": {
       "seen_at": "2026-07-29T21:15:17+00:00"
     },
@@ -103708,6 +103720,9 @@
     },
     "workday:sec:R117366": {
       "seen_at": "2026-07-29T15:31:38+00:00"
+    },
+    "workday:sec:R117495": {
+      "seen_at": "2026-07-30T12:33:48+00:00"
     },
     "workday:sec:R117501": {
       "seen_at": "2026-07-08T16:14:43+00:00"
@@ -110351,6 +110366,9 @@
     "workday:td:R_1489535": {
       "seen_at": "2026-07-15T20:41:30+00:00"
     },
+    "workday:td:R_1489547": {
+      "seen_at": "2026-07-30T12:33:48+00:00"
+    },
     "workday:td:R_1489609": {
       "seen_at": "2026-07-08T16:29:40+00:00"
     },
@@ -114901,6 +114919,9 @@
     },
     "workday:td:R_1502781": {
       "seen_at": "2026-07-29T20:39:38+00:00"
+    },
+    "workday:td:R_1502783": {
+      "seen_at": "2026-07-30T12:33:47+00:00"
     },
     "workday:td:R_1502810": {
       "seen_at": "2026-07-30T06:05:15+00:00"
