@@ -148,7 +148,7 @@
       "consecutive_failures": 0,
       "warned_failures": false,
       "warned_zero": false,
-      "zero_since": "2026-07-30"
+      "zero_since": null
     },
     "greenhouse/adyen": {
       "consecutive_failures": 0,
@@ -61742,6 +61742,12 @@
     "workday:cibc:2615798": {
       "seen_at": "2026-07-30T19:17:55+00:00"
     },
+    "workday:cibc:2615802": {
+      "seen_at": "2026-07-30T22:04:41+00:00"
+    },
+    "workday:cibc:2615803": {
+      "seen_at": "2026-07-30T22:04:41+00:00"
+    },
     "workday:cibc:2615811": {
       "seen_at": "2026-07-29T15:31:38+00:00"
     },
@@ -61756,6 +61762,9 @@
     },
     "workday:cibc:2615816": {
       "seen_at": "2026-07-30T15:05:33+00:00"
+    },
+    "workday:cibc:2615829": {
+      "seen_at": "2026-07-30T22:04:41+00:00"
     },
     "workday:cibc:2615833": {
       "seen_at": "2026-07-29T18:14:52+00:00"
@@ -64466,6 +64475,9 @@
     "workday:citi:26973601": {
       "seen_at": "2026-07-15T16:21:47+00:00"
     },
+    "workday:citi:26973618": {
+      "seen_at": "2026-07-30T22:04:41+00:00"
+    },
     "workday:citi:26973634": {
       "seen_at": "2026-07-22T14:27:25+00:00"
     },
@@ -64762,6 +64774,9 @@
     },
     "workday:citi:26974533": {
       "seen_at": "2026-07-30T14:51:08+00:00"
+    },
+    "workday:citi:26974540": {
+      "seen_at": "2026-07-30T22:04:41+00:00"
     },
     "workday:citi:26974560": {
       "seen_at": "2026-07-21T20:20:42+00:00"
@@ -69814,6 +69829,9 @@
     },
     "workday:citi:26981840": {
       "seen_at": "2026-07-29T13:29:31+00:00"
+    },
+    "workday:citi:26981843": {
+      "seen_at": "2026-07-30T22:04:41+00:00"
     },
     "workday:citi:26981845": {
       "seen_at": "2026-07-23T19:16:50+00:00"
@@ -82342,6 +82360,9 @@
     },
     "workday:intel:JR0286082": {
       "seen_at": "2026-07-29T07:23:30+00:00"
+    },
+    "workday:intel:JR0286097": {
+      "seen_at": "2026-07-30T22:04:41+00:00"
     },
     "workday:intel:Spotlight Job": {
       "seen_at": "2026-07-08T16:14:43+00:00"
@@ -95639,6 +95660,9 @@
     "workday:paloaltonetworks:JR-019463": {
       "seen_at": "2026-07-09T05:35:54+00:00"
     },
+    "workday:paloaltonetworks:JR-019465": {
+      "seen_at": "2026-07-30T22:04:41+00:00"
+    },
     "workday:paloaltonetworks:JR-019466": {
       "seen_at": "2026-07-22T03:36:01+00:00"
     },
@@ -96397,6 +96421,9 @@
     },
     "workday:paloaltonetworks:JR-020477": {
       "seen_at": "2026-07-28T13:27:44+00:00"
+    },
+    "workday:paloaltonetworks:JR-020489": {
+      "seen_at": "2026-07-30T22:04:41+00:00"
     },
     "workday:paloaltonetworks:JR-020518": {
       "seen_at": "2026-07-29T11:52:27+00:00"
