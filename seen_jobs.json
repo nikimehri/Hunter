@@ -148,7 +148,7 @@
       "consecutive_failures": 0,
       "warned_failures": false,
       "warned_zero": false,
-      "zero_since": null
+      "zero_since": "2026-07-31"
     },
     "greenhouse/adyen": {
       "consecutive_failures": 0,
@@ -86354,6 +86354,9 @@
     "workday:micron:JR100565": {
       "seen_at": "2026-07-21T21:30:02+00:00"
     },
+    "workday:micron:JR100639": {
+      "seen_at": "2026-07-31T07:49:05+00:00"
+    },
     "workday:micron:JR100654": {
       "seen_at": "2026-07-21T14:23:26+00:00"
     },
@@ -97649,8 +97652,14 @@
     "workday:paloaltonetworks:JR-020630": {
       "seen_at": "2026-07-30T23:55:03+00:00"
     },
+    "workday:paloaltonetworks:JR-020679": {
+      "seen_at": "2026-07-31T07:49:05+00:00"
+    },
     "workday:paloaltonetworks:JR-020711": {
       "seen_at": "2026-07-31T04:37:41+00:00"
+    },
+    "workday:paloaltonetworks:JR-020734": {
+      "seen_at": "2026-07-31T07:49:05+00:00"
     },
     "workday:paypal:R0132102": {
       "seen_at": "2026-07-27T18:04:05+00:00"
@@ -111619,6 +111628,9 @@
     },
     "workday:statestreet:R-794153": {
       "seen_at": "2026-07-14T09:22:33+00:00"
+    },
+    "workday:statestreet:R-794154": {
+      "seen_at": "2026-07-31T07:49:05+00:00"
     },
     "workday:statestreet:R-794156": {
       "seen_at": "2026-07-14T11:00:16+00:00"
