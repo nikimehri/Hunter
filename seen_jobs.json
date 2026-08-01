@@ -148,7 +148,7 @@
       "consecutive_failures": 0,
       "warned_failures": false,
       "warned_zero": false,
-      "zero_since": null
+      "zero_since": "2026-08-01"
     },
     "greenhouse/adyen": {
       "consecutive_failures": 0,
@@ -277,7 +277,7 @@
       "zero_since": null
     },
     "workday/capitalone": {
-      "consecutive_failures": 1,
+      "consecutive_failures": 0,
       "warned_failures": false,
       "warned_zero": false,
       "zero_since": null
@@ -82717,6 +82717,9 @@
     },
     "workday:hpe:1208084": {
       "seen_at": "2026-07-28T09:24:47+00:00"
+    },
+    "workday:hpe:1208086": {
+      "seen_at": "2026-08-01T04:40:34+00:00"
     },
     "workday:hpe:1208087": {
       "seen_at": "2026-07-28T09:24:47+00:00"
