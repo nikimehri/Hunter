@@ -148,7 +148,7 @@
       "consecutive_failures": 0,
       "warned_failures": false,
       "warned_zero": false,
-      "zero_since": "2026-08-06"
+      "zero_since": null
     },
     "greenhouse/adyen": {
       "consecutive_failures": 0,
@@ -111281,6 +111281,9 @@
     "workday:paloaltonetworks:JR-020037": {
       "seen_at": "2026-08-02T11:52:11+00:00"
     },
+    "workday:paloaltonetworks:JR-020045": {
+      "seen_at": "2026-08-06T00:39:29+00:00"
+    },
     "workday:paloaltonetworks:JR-020051": {
       "seen_at": "2026-07-23T20:06:01+00:00"
     },
@@ -128128,6 +128131,9 @@
     },
     "workday:statestreet:R-794220": {
       "seen_at": "2026-07-20T04:03:22+00:00"
+    },
+    "workday:statestreet:R-794221": {
+      "seen_at": "2026-08-06T00:39:29+00:00"
     },
     "workday:statestreet:R-794223": {
       "seen_at": "2026-07-14T20:11:01+00:00"
