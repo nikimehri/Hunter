@@ -148,7 +148,7 @@
       "consecutive_failures": 0,
       "warned_failures": false,
       "warned_zero": false,
-      "zero_since": "2026-08-07"
+      "zero_since": null
     },
     "greenhouse/adyen": {
       "consecutive_failures": 0,
@@ -63188,6 +63188,9 @@
     "workday:bmo:R260023038": {
       "seen_at": "2026-08-07T00:29:49+00:00"
     },
+    "workday:bmo:R260023041": {
+      "seen_at": "2026-08-07T22:01:42+00:00"
+    },
     "workday:bmo:R260023042": {
       "seen_at": "2026-08-07T11:44:36+00:00"
     },
@@ -68926,6 +68929,9 @@
     },
     "workday:capitalone:R248723": {
       "seen_at": "2026-08-07T17:07:59+00:00"
+    },
+    "workday:capitalone:R248728": {
+      "seen_at": "2026-08-07T22:01:42+00:00"
     },
     "workday:capitalone:R248735": {
       "seen_at": "2026-08-07T20:40:18+00:00"
@@ -123395,6 +123401,9 @@
     "workday:rbc:R-0000182894": {
       "seen_at": "2026-08-04T15:45:58+00:00"
     },
+    "workday:rbc:R-0000182895": {
+      "seen_at": "2026-08-07T22:01:42+00:00"
+    },
     "workday:rbc:R-0000182897": {
       "seen_at": "2026-08-04T13:28:40+00:00"
     },
@@ -128078,6 +128087,9 @@
     "workday:salesforce:JR354018": {
       "seen_at": "2026-08-05T21:10:52+00:00"
     },
+    "workday:salesforce:JR354022": {
+      "seen_at": "2026-08-07T22:01:42+00:00"
+    },
     "workday:salesforce:JR354025": {
       "seen_at": "2026-07-30T12:48:24+00:00"
     },
@@ -128485,6 +128497,15 @@
     },
     "workday:salesforce:JR355423": {
       "seen_at": "2026-08-07T15:24:48+00:00"
+    },
+    "workday:salesforce:JR355459": {
+      "seen_at": "2026-08-07T22:01:42+00:00"
+    },
+    "workday:salesforce:JR355477": {
+      "seen_at": "2026-08-07T22:01:42+00:00"
+    },
+    "workday:salesforce:JR355479": {
+      "seen_at": "2026-08-07T22:01:42+00:00"
     },
     "workday:sec:R100016": {
       "seen_at": "2026-07-27T11:44:16+00:00"
@@ -138626,6 +138647,9 @@
     "workday:td:R_1496153": {
       "seen_at": "2026-07-16T19:13:53+00:00"
     },
+    "workday:td:R_1496166": {
+      "seen_at": "2026-08-07T22:01:42+00:00"
+    },
     "workday:td:R_1496238": {
       "seen_at": "2026-07-21T20:06:27+00:00"
     },
@@ -147112,6 +147136,9 @@
     },
     "workday:workday:JR-0108830": {
       "seen_at": "2026-07-23T01:25:48+00:00"
+    },
+    "workday:workday:JR-0108831": {
+      "seen_at": "2026-08-07T22:01:42+00:00"
     },
     "workday:workday:JR-0108840": {
       "seen_at": "2026-08-07T00:29:49+00:00"
