@@ -148,7 +148,7 @@
       "consecutive_failures": 0,
       "warned_failures": false,
       "warned_zero": false,
-      "zero_since": "2026-08-07"
+      "zero_since": null
     },
     "greenhouse/adyen": {
       "consecutive_failures": 0,
@@ -5749,6 +5749,9 @@
     },
     "ashby:notion:f90dbd09-818d-436d-9b7b-c6d25bb5cab8": {
       "seen_at": "2026-07-08T16:14:43+00:00"
+    },
+    "ashby:notion:fa089457-a22c-406f-9bc2-223656b87026": {
+      "seen_at": "2026-08-07T13:35:12+00:00"
     },
     "ashby:notion:fdc2a6c0-396a-45db-b465-683bacf4201e": {
       "seen_at": "2026-07-08T16:14:43+00:00"
@@ -40523,6 +40526,12 @@
     "greenhouse:affirm:7822389003": {
       "seen_at": "2026-08-06T15:34:51+00:00"
     },
+    "greenhouse:affirm:7822391003": {
+      "seen_at": "2026-08-07T13:35:12+00:00"
+    },
+    "greenhouse:affirm:7822393003": {
+      "seen_at": "2026-08-07T13:35:12+00:00"
+    },
     "greenhouse:anthropic:4017331008": {
       "seen_at": "2026-07-05T22:02:14+00:00"
     },
@@ -68332,6 +68341,9 @@
     },
     "workday:capitalone:R248652": {
       "seen_at": "2026-08-07T00:29:49+00:00"
+    },
+    "workday:capitalone:R248664": {
+      "seen_at": "2026-08-07T13:35:12+00:00"
     },
     "workday:capitalone:R248668": {
       "seen_at": "2026-08-07T00:29:49+00:00"
@@ -108428,6 +108440,9 @@
     "workday:ms:PT-JR041925": {
       "seen_at": "2026-08-06T13:12:29+00:00"
     },
+    "workday:ms:PT-JR041963": {
+      "seen_at": "2026-08-07T13:35:12+00:00"
+    },
     "workday:ms:PT-JR042033": {
       "seen_at": "2026-08-07T11:24:00+00:00"
     },
@@ -134474,6 +134489,9 @@
     "workday:statestreet:R-795700": {
       "seen_at": "2026-08-06T09:07:17+00:00"
     },
+    "workday:statestreet:R-795704": {
+      "seen_at": "2026-08-07T13:35:12+00:00"
+    },
     "workday:statestreet:R-795716": {
       "seen_at": "2026-08-06T09:35:16+00:00"
     },
@@ -144631,6 +144649,9 @@
     },
     "workday:workday:JR-0108174": {
       "seen_at": "2026-07-09T23:22:01+00:00"
+    },
+    "workday:workday:JR-0108195": {
+      "seen_at": "2026-08-07T13:35:12+00:00"
     },
     "workday:workday:JR-0108205": {
       "seen_at": "2026-07-21T20:06:27+00:00"
