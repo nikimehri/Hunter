@@ -259,7 +259,7 @@
       "zero_since": null
     },
     "workday/bmo": {
-      "consecutive_failures": 17,
+      "consecutive_failures": 18,
       "warned_failures": true,
       "warned_zero": false,
       "zero_since": null
@@ -283,8 +283,8 @@
       "zero_since": null
     },
     "workday/cibc": {
-      "consecutive_failures": 17,
-      "warned_failures": true,
+      "consecutive_failures": 0,
+      "warned_failures": false,
       "warned_zero": false,
       "zero_since": null
     },
@@ -343,8 +343,8 @@
       "zero_since": null
     },
     "workday/interac": {
-      "consecutive_failures": 17,
-      "warned_failures": true,
+      "consecutive_failures": 0,
+      "warned_failures": false,
       "warned_zero": false,
       "zero_since": null
     },
@@ -397,7 +397,7 @@
       "zero_since": null
     },
     "workday/rbc": {
-      "consecutive_failures": 17,
+      "consecutive_failures": 18,
       "warned_failures": true,
       "warned_zero": false,
       "zero_since": null
@@ -415,8 +415,8 @@
       "zero_since": null
     },
     "workday/sec": {
-      "consecutive_failures": 17,
-      "warned_failures": true,
+      "consecutive_failures": 0,
+      "warned_failures": false,
       "warned_zero": false,
       "zero_since": null
     },
@@ -439,7 +439,7 @@
       "zero_since": null
     },
     "workday/td": {
-      "consecutive_failures": 17,
+      "consecutive_failures": 18,
       "warned_failures": true,
       "warned_zero": false,
       "zero_since": null
