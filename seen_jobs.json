@@ -142,13 +142,13 @@
       "consecutive_failures": 0,
       "warned_failures": false,
       "warned_zero": false,
-      "zero_since": "2026-08-10"
+      "zero_since": null
     },
     "github/SimplifyJobs/Summer2026-Internships": {
       "consecutive_failures": 0,
       "warned_failures": false,
       "warned_zero": false,
-      "zero_since": "2026-08-10"
+      "zero_since": null
     },
     "greenhouse/adyen": {
       "consecutive_failures": 0,
@@ -7912,6 +7912,9 @@
     },
     "ashby:openai:abd2a56b-6aa3-4721-a924-2c2f225d0e1f": {
       "seen_at": "2026-07-05T22:02:14+00:00"
+    },
+    "ashby:openai:ac371165-c2b3-4289-9e97-0abc68287b91": {
+      "seen_at": "2026-08-10T04:13:05+00:00"
     },
     "ashby:openai:ac4ad2fe-48a8-4329-9ba0-d37361ae6dde": {
       "seen_at": "2026-08-05T09:27:04+00:00"
@@ -64898,6 +64901,9 @@
     "workday:broadcom:R026772": {
       "seen_at": "2026-08-07T00:29:49+00:00"
     },
+    "workday:broadcom:R026775": {
+      "seen_at": "2026-08-10T04:13:06+00:00"
+    },
     "workday:cadence:R24363": {
       "seen_at": "2026-07-08T16:14:43+00:00"
     },
@@ -73321,6 +73327,9 @@
     },
     "workday:cibc:2616609": {
       "seen_at": "2026-08-08T03:00:19+00:00"
+    },
+    "workday:cibc:2616625": {
+      "seen_at": "2026-08-10T04:13:06+00:00"
     },
     "workday:citi:25848278": {
       "seen_at": "2026-07-21T12:16:01+00:00"
@@ -83459,6 +83468,9 @@
     "workday:citi:26983180": {
       "seen_at": "2026-07-31T17:57:05+00:00"
     },
+    "workday:citi:26983184": {
+      "seen_at": "2026-08-10T04:13:06+00:00"
+    },
     "workday:citi:26983186": {
       "seen_at": "2026-07-30T19:25:01+00:00"
     },
@@ -84661,6 +84673,9 @@
     },
     "workday:citi:26985744": {
       "seen_at": "2026-08-07T23:43:00+00:00"
+    },
+    "workday:citi:26985780": {
+      "seen_at": "2026-08-10T04:13:06+00:00"
     },
     "workday:crowdstrike:R17816": {
       "seen_at": "2026-07-28T18:20:18+00:00"
@@ -88519,6 +88534,9 @@
     },
     "workday:fis:JR0308605": {
       "seen_at": "2026-07-30T08:44:39+00:00"
+    },
+    "workday:fis:JR0308607": {
+      "seen_at": "2026-08-10T04:13:06+00:00"
     },
     "workday:fis:JR0308610": {
       "seen_at": "2026-08-04T19:00:34+00:00"
@@ -117908,6 +117926,12 @@
     "workday:paloaltonetworks:JR-020431": {
       "seen_at": "2026-07-31T07:28:14+00:00"
     },
+    "workday:paloaltonetworks:JR-020433": {
+      "seen_at": "2026-08-10T04:13:06+00:00"
+    },
+    "workday:paloaltonetworks:JR-020436": {
+      "seen_at": "2026-08-10T04:13:06+00:00"
+    },
     "workday:paloaltonetworks:JR-020440": {
       "seen_at": "2026-07-29T07:16:31+00:00"
     },
@@ -117994,6 +118018,9 @@
     },
     "workday:paloaltonetworks:JR-020600": {
       "seen_at": "2026-08-06T06:15:33+00:00"
+    },
+    "workday:paloaltonetworks:JR-020606": {
+      "seen_at": "2026-08-10T04:13:06+00:00"
     },
     "workday:paloaltonetworks:JR-020607": {
       "seen_at": "2026-08-10T02:34:38+00:00"
@@ -132686,6 +132713,9 @@
     "workday:spgi:330952": {
       "seen_at": "2026-08-08T04:11:20+00:00"
     },
+    "workday:spgi:330970": {
+      "seen_at": "2026-08-10T04:13:06+00:00"
+    },
     "workday:spgi:330986": {
       "seen_at": "2026-08-05T13:16:54+00:00"
     },
@@ -134290,6 +134320,9 @@
     },
     "workday:statestreet:R-791809": {
       "seen_at": "2026-07-08T16:14:43+00:00"
+    },
+    "workday:statestreet:R-791839": {
+      "seen_at": "2026-08-10T04:13:06+00:00"
     },
     "workday:statestreet:R-791842": {
       "seen_at": "2026-07-30T16:11:45+00:00"
@@ -144997,6 +145030,9 @@
     },
     "workday:tsys:R0072722": {
       "seen_at": "2026-07-08T16:14:43+00:00"
+    },
+    "workday:tsys:R0072728": {
+      "seen_at": "2026-08-10T04:13:06+00:00"
     },
     "workday:tsys:R0072735": {
       "seen_at": "2026-07-08T16:14:43+00:00"
