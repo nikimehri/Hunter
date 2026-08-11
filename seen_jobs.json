@@ -148,7 +148,7 @@
       "consecutive_failures": 0,
       "warned_failures": false,
       "warned_zero": false,
-      "zero_since": "2026-08-11"
+      "zero_since": null
     },
     "greenhouse/adyen": {
       "consecutive_failures": 0,
@@ -46310,6 +46310,9 @@
     "greenhouse:brex:8688112002": {
       "seen_at": "2026-08-07T00:29:49+00:00"
     },
+    "greenhouse:brex:8694770002": {
+      "seen_at": "2026-08-11T19:02:27+00:00"
+    },
     "greenhouse:chime:8121830002": {
       "seen_at": "2026-07-05T22:02:14+00:00"
     },
@@ -66278,6 +66281,9 @@
     "workday:bmo:R260023626": {
       "seen_at": "2026-08-11T15:55:33+00:00"
     },
+    "workday:bmo:R260023664": {
+      "seen_at": "2026-08-11T19:02:27+00:00"
+    },
     "workday:broadcom:R023954": {
       "seen_at": "2026-07-14T16:51:47+00:00"
     },
@@ -75541,6 +75547,9 @@
     },
     "workday:cibc:2615837": {
       "seen_at": "2026-07-30T17:47:04+00:00"
+    },
+    "workday:cibc:2615841": {
+      "seen_at": "2026-08-11T19:02:27+00:00"
     },
     "workday:cibc:2615842": {
       "seen_at": "2026-07-31T16:18:36+00:00"
@@ -88460,6 +88469,9 @@
     "workday:citi:26985756": {
       "seen_at": "2026-08-11T15:28:38+00:00"
     },
+    "workday:citi:26985766": {
+      "seen_at": "2026-08-11T19:02:27+00:00"
+    },
     "workday:citi:26985775": {
       "seen_at": "2026-08-10T08:28:44+00:00"
     },
@@ -97088,6 +97100,9 @@
     "workday:fmr:2132541": {
       "seen_at": "2026-07-22T03:36:01+00:00"
     },
+    "workday:fmr:2132553": {
+      "seen_at": "2026-08-11T19:02:27+00:00"
+    },
     "workday:fmr:2132561": {
       "seen_at": "2026-07-20T16:09:45+00:00"
     },
@@ -104413,6 +104428,9 @@
     },
     "workday:intel:JR0286328": {
       "seen_at": "2026-08-11T17:47:56+00:00"
+    },
+    "workday:intel:JR0286329": {
+      "seen_at": "2026-08-11T19:02:27+00:00"
     },
     "workday:intel:JR0286331": {
       "seen_at": "2026-08-10T08:42:35+00:00"
@@ -143938,6 +143956,9 @@
     },
     "workday:statestreet:R-795507": {
       "seen_at": "2026-08-04T04:28:18+00:00"
+    },
+    "workday:statestreet:R-795509": {
+      "seen_at": "2026-08-11T19:02:27+00:00"
     },
     "workday:statestreet:R-795510": {
       "seen_at": "2026-08-03T20:49:36+00:00"
