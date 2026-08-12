@@ -142,13 +142,13 @@
       "consecutive_failures": 0,
       "warned_failures": false,
       "warned_zero": false,
-      "zero_since": null
+      "zero_since": "2026-08-12"
     },
     "github/SimplifyJobs/Summer2026-Internships": {
       "consecutive_failures": 0,
       "warned_failures": false,
       "warned_zero": false,
-      "zero_since": null
+      "zero_since": "2026-08-12"
     },
     "greenhouse/adyen": {
       "consecutive_failures": 0,
@@ -265,7 +265,7 @@
       "zero_since": null
     },
     "workday/broadcom": {
-      "consecutive_failures": 0,
+      "consecutive_failures": 1,
       "warned_failures": false,
       "warned_zero": false,
       "zero_since": null
@@ -433,8 +433,8 @@
       "zero_since": null
     },
     "workday/statestreet": {
-      "consecutive_failures": 4,
-      "warned_failures": false,
+      "consecutive_failures": 5,
+      "warned_failures": true,
       "warned_zero": false,
       "zero_since": null
     },
@@ -101093,6 +101093,9 @@
     "workday:hp:3164749": {
       "seen_at": "2026-07-08T16:22:01+00:00"
     },
+    "workday:hp:3164752": {
+      "seen_at": "2026-08-12T20:52:03+00:00"
+    },
     "workday:hp:3164754": {
       "seen_at": "2026-08-10T17:34:17+00:00"
     },
@@ -102298,6 +102301,9 @@
     },
     "workday:hp:3167367": {
       "seen_at": "2026-08-10T16:34:30+00:00"
+    },
+    "workday:hp:3167385": {
+      "seen_at": "2026-08-12T20:52:03+00:00"
     },
     "workday:hp:3167478": {
       "seen_at": "2026-08-12T02:37:12+00:00"
@@ -149335,6 +149341,9 @@
     },
     "workday:td:R_1484606": {
       "seen_at": "2026-07-27T22:08:54+00:00"
+    },
+    "workday:td:R_1484680": {
+      "seen_at": "2026-08-12T20:52:03+00:00"
     },
     "workday:td:R_1484731": {
       "seen_at": "2026-07-13T19:23:11+00:00"
