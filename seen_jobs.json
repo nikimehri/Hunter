@@ -142,13 +142,13 @@
       "consecutive_failures": 0,
       "warned_failures": false,
       "warned_zero": false,
-      "zero_since": "2026-08-14"
+      "zero_since": null
     },
     "github/SimplifyJobs/Summer2026-Internships": {
       "consecutive_failures": 0,
       "warned_failures": false,
       "warned_zero": false,
-      "zero_since": "2026-08-14"
+      "zero_since": null
     },
     "greenhouse/adyen": {
       "consecutive_failures": 0,
@@ -7205,6 +7205,9 @@
     "ashby:openai:50aab80a-fa60-4fcc-882d-18ea76db5f11": {
       "seen_at": "2026-07-05T22:02:14+00:00"
     },
+    "ashby:openai:50ab21f6-475d-4911-984d-7d2727e72ea1": {
+      "seen_at": "2026-08-14T16:39:54+00:00"
+    },
     "ashby:openai:50bf08a4-21ae-4966-9ab1-fb6e7b947374": {
       "seen_at": "2026-07-16T04:12:12+00:00"
     },
@@ -8726,6 +8729,9 @@
     "ashby:openai:c6094d81-4be2-40c7-8ae1-62f257fd1d49": {
       "seen_at": "2026-07-14T14:10:56+00:00"
     },
+    "ashby:openai:c6cb3f11-8e1f-4e34-b407-6a3327e39f2e": {
+      "seen_at": "2026-08-14T16:39:54+00:00"
+    },
     "ashby:openai:c6ce7090-9061-4dae-90d5-3e120f179a39": {
       "seen_at": "2026-07-05T22:02:14+00:00"
     },
@@ -8893,6 +8899,9 @@
     },
     "ashby:openai:d4548828-191b-4cbf-9fd4-058d16416e49": {
       "seen_at": "2026-07-05T22:02:14+00:00"
+    },
+    "ashby:openai:d45d6005-ad46-4c3c-8cfc-d312bffe01d5": {
+      "seen_at": "2026-08-14T16:39:54+00:00"
     },
     "ashby:openai:d4780eac-03ad-4dae-861f-99af22b4287e": {
       "seen_at": "2026-07-05T22:02:14+00:00"
@@ -76955,6 +76964,9 @@
     "workday:capitalone:R249209": {
       "seen_at": "2026-08-13T15:37:31+00:00"
     },
+    "workday:capitalone:R249212": {
+      "seen_at": "2026-08-14T16:39:54+00:00"
+    },
     "workday:capitalone:R249213": {
       "seen_at": "2026-08-14T14:51:47+00:00"
     },
@@ -77008,6 +77020,9 @@
     },
     "workday:capitalone:R249315": {
       "seen_at": "2026-08-14T16:25:32+00:00"
+    },
+    "workday:capitalone:R249319": {
+      "seen_at": "2026-08-14T16:39:54+00:00"
     },
     "workday:cibc:2407091": {
       "seen_at": "2026-07-09T20:59:09+00:00"
@@ -95036,6 +95051,9 @@
     "workday:citi:26987439": {
       "seen_at": "2026-08-14T06:30:30+00:00"
     },
+    "workday:citi:26987521": {
+      "seen_at": "2026-08-14T16:39:54+00:00"
+    },
     "workday:crowdstrike:R17816": {
       "seen_at": "2026-07-28T18:20:18+00:00"
     },
@@ -99335,6 +99353,9 @@
     "workday:fis:JR0308624": {
       "seen_at": "2026-08-03T16:16:16+00:00"
     },
+    "workday:fis:JR0308626": {
+      "seen_at": "2026-08-14T16:39:53+00:00"
+    },
     "workday:fis:JR0308631": {
       "seen_at": "2026-07-30T14:36:49+00:00"
     },
@@ -103030,6 +103051,9 @@
     },
     "workday:fmr:2130256": {
       "seen_at": "2026-08-03T16:16:16+00:00"
+    },
+    "workday:fmr:2130268": {
+      "seen_at": "2026-08-14T16:39:54+00:00"
     },
     "workday:fmr:2130281": {
       "seen_at": "2026-07-21T17:11:37+00:00"
@@ -120257,6 +120281,9 @@
     "workday:micron:JR108700": {
       "seen_at": "2026-08-12T11:48:45+00:00"
     },
+    "workday:micron:JR108733": {
+      "seen_at": "2026-08-14T16:39:54+00:00"
+    },
     "workday:micron:JR108753": {
       "seen_at": "2026-08-14T00:53:54+00:00"
     },
@@ -130801,6 +130828,9 @@
     },
     "workday:nvidia:JR2023339": {
       "seen_at": "2026-08-14T16:25:32+00:00"
+    },
+    "workday:nvidia:JR2023372": {
+      "seen_at": "2026-08-14T16:39:54+00:00"
     },
     "workday:nvidia:JR2023428": {
       "seen_at": "2026-08-13T21:49:37+00:00"
@@ -153320,6 +153350,9 @@
     "workday:statestreet:R-794115": {
       "seen_at": "2026-07-13T21:09:27+00:00"
     },
+    "workday:statestreet:R-794117": {
+      "seen_at": "2026-08-14T16:39:52+00:00"
+    },
     "workday:statestreet:R-794118": {
       "seen_at": "2026-07-14T16:51:47+00:00"
     },
@@ -163987,6 +164020,9 @@
     },
     "workday:td:R_1505566": {
       "seen_at": "2026-08-14T16:18:27+00:00"
+    },
+    "workday:td:R_1505570": {
+      "seen_at": "2026-08-14T16:39:54+00:00"
     },
     "workday:tsys:R0065990": {
       "seen_at": "2026-07-22T12:19:34+00:00"
