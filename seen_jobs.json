@@ -139,7 +139,7 @@
       "zero_since": null
     },
     "github/SimplifyJobs/New-Grad-Positions": {
-      "consecutive_failures": 1,
+      "consecutive_failures": 2,
       "warned_failures": false,
       "warned_zero": false,
       "zero_since": null
@@ -148,7 +148,7 @@
       "consecutive_failures": 0,
       "warned_failures": false,
       "warned_zero": false,
-      "zero_since": null
+      "zero_since": "2026-08-17"
     },
     "greenhouse/adyen": {
       "consecutive_failures": 0,
@@ -71993,6 +71993,9 @@
     "workday:bmo:R260024074": {
       "seen_at": "2026-08-17T15:33:58+00:00"
     },
+    "workday:bmo:R260024079": {
+      "seen_at": "2026-08-17T16:13:34+00:00"
+    },
     "workday:bmo:R260024097": {
       "seen_at": "2026-08-14T23:33:42+00:00"
     },
@@ -80057,6 +80060,9 @@
     "workday:cibc:2613992": {
       "seen_at": "2026-07-21T19:01:25+00:00"
     },
+    "workday:cibc:2613998": {
+      "seen_at": "2026-08-17T16:13:34+00:00"
+    },
     "workday:cibc:2613999": {
       "seen_at": "2026-07-09T15:50:27+00:00"
     },
@@ -81931,6 +81937,9 @@
     },
     "workday:cibc:2615767": {
       "seen_at": "2026-08-05T21:18:54+00:00"
+    },
+    "workday:cibc:2615770": {
+      "seen_at": "2026-08-17T16:13:34+00:00"
     },
     "workday:cibc:2615773": {
       "seen_at": "2026-07-31T14:54:47+00:00"
@@ -85240,6 +85249,9 @@
     },
     "workday:citi:26966994": {
       "seen_at": "2026-07-23T20:06:01+00:00"
+    },
+    "workday:citi:26967021": {
+      "seen_at": "2026-08-17T16:13:34+00:00"
     },
     "workday:citi:26967043": {
       "seen_at": "2026-07-29T21:15:17+00:00"
@@ -120212,6 +120224,9 @@
     "workday:micron:JR102414": {
       "seen_at": "2026-07-15T19:41:33+00:00"
     },
+    "workday:micron:JR102415": {
+      "seen_at": "2026-08-17T16:13:34+00:00"
+    },
     "workday:micron:JR102416": {
       "seen_at": "2026-07-14T15:43:58+00:00"
     },
@@ -144932,6 +144947,9 @@
     "workday:rbc:R-0000184393": {
       "seen_at": "2026-08-14T19:59:47+00:00"
     },
+    "workday:rbc:R-0000184400": {
+      "seen_at": "2026-08-17T16:13:32+00:00"
+    },
     "workday:rbc:R-0000184414": {
       "seen_at": "2026-08-14T18:59:21+00:00"
     },
@@ -145009,6 +145027,12 @@
     },
     "workday:rbc:R-0000184557": {
       "seen_at": "2026-08-17T14:20:02+00:00"
+    },
+    "workday:rbc:R-0000184573": {
+      "seen_at": "2026-08-17T16:13:33+00:00"
+    },
+    "workday:rbc:R-0000184575": {
+      "seen_at": "2026-08-17T16:13:34+00:00"
     },
     "workday:redhat:R-043519": {
       "seen_at": "2026-07-28T04:19:45+00:00"
@@ -149591,6 +149615,9 @@
     "workday:salesforce:JR353817": {
       "seen_at": "2026-07-28T15:55:18+00:00"
     },
+    "workday:salesforce:JR353828": {
+      "seen_at": "2026-08-17T16:13:34+00:00"
+    },
     "workday:salesforce:JR353835": {
       "seen_at": "2026-07-29T19:12:41+00:00"
     },
@@ -150508,6 +150535,9 @@
     },
     "workday:salesforce:JR356265": {
       "seen_at": "2026-08-14T17:37:45+00:00"
+    },
+    "workday:salesforce:JR356268": {
+      "seen_at": "2026-08-17T16:13:34+00:00"
     },
     "workday:salesforce:JR356314": {
       "seen_at": "2026-08-14T19:59:47+00:00"
@@ -169888,6 +169918,9 @@
     },
     "workday:visa:REF079904W": {
       "seen_at": "2026-07-29T01:11:07+00:00"
+    },
+    "workday:visa:REF079935W": {
+      "seen_at": "2026-08-17T16:13:34+00:00"
     },
     "workday:visa:REF079939W": {
       "seen_at": "2026-08-04T15:45:58+00:00"
