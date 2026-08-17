@@ -148,7 +148,7 @@
       "consecutive_failures": 0,
       "warned_failures": false,
       "warned_zero": false,
-      "zero_since": "2026-08-17"
+      "zero_since": null
     },
     "greenhouse/adyen": {
       "consecutive_failures": 0,
@@ -12877,6 +12877,9 @@
     },
     "ashby:wealthsimple:58eb0a4c-928d-4078-a3eb-7f15663edf6e": {
       "seen_at": "2026-07-15T14:26:53+00:00"
+    },
+    "ashby:wealthsimple:5bec7e2a-249b-4e81-9e62-180a725e1e22": {
+      "seen_at": "2026-08-17T23:33:44+00:00"
     },
     "ashby:wealthsimple:5d461267-c9f1-4c7c-bcc3-4403b8df5502": {
       "seen_at": "2026-07-08T14:35:26+00:00"
@@ -72563,6 +72566,9 @@
     "workday:bmo:R260023669": {
       "seen_at": "2026-08-13T19:47:47+00:00"
     },
+    "workday:bmo:R260023672": {
+      "seen_at": "2026-08-17T23:33:44+00:00"
+    },
     "workday:bmo:R260023674": {
       "seen_at": "2026-08-13T19:54:47+00:00"
     },
@@ -84047,6 +84053,9 @@
     "workday:cibc:2617073": {
       "seen_at": "2026-08-17T17:15:56+00:00"
     },
+    "workday:cibc:2617086": {
+      "seen_at": "2026-08-17T23:33:44+00:00"
+    },
     "workday:cibc:2617089": {
       "seen_at": "2026-08-17T19:43:13+00:00"
     },
@@ -84676,6 +84685,9 @@
     },
     "workday:citi:26950139": {
       "seen_at": "2026-07-20T16:09:45+00:00"
+    },
+    "workday:citi:26950207": {
+      "seen_at": "2026-08-17T23:33:44+00:00"
     },
     "workday:citi:26950236": {
       "seen_at": "2026-07-31T14:32:15+00:00"
