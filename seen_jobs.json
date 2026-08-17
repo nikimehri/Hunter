@@ -148,7 +148,7 @@
       "consecutive_failures": 0,
       "warned_failures": false,
       "warned_zero": false,
-      "zero_since": "2026-08-17"
+      "zero_since": null
     },
     "greenhouse/adyen": {
       "consecutive_failures": 0,
@@ -169399,6 +169399,9 @@
     },
     "workday:visa:REF086847W": {
       "seen_at": "2026-07-30T18:01:19+00:00"
+    },
+    "workday:visa:REF086851W": {
+      "seen_at": "2026-08-17T00:32:27+00:00"
     },
     "workday:visa:REF086858W": {
       "seen_at": "2026-08-06T11:31:56+00:00"
