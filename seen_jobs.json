@@ -142,13 +142,13 @@
       "consecutive_failures": 0,
       "warned_failures": false,
       "warned_zero": false,
-      "zero_since": "2026-08-17"
+      "zero_since": null
     },
     "github/SimplifyJobs/Summer2026-Internships": {
       "consecutive_failures": 0,
       "warned_failures": false,
       "warned_zero": false,
-      "zero_since": "2026-08-17"
+      "zero_since": null
     },
     "greenhouse/adyen": {
       "consecutive_failures": 0,
@@ -61628,11 +61628,17 @@
     "workday:analogdevices:R264360": {
       "seen_at": "2026-08-07T00:29:49+00:00"
     },
+    "workday:analogdevices:R264367": {
+      "seen_at": "2026-08-17T02:37:02+00:00"
+    },
     "workday:analogdevices:R264368": {
       "seen_at": "2026-08-14T07:51:59+00:00"
     },
     "workday:analogdevices:R264369": {
       "seen_at": "2026-08-13T08:05:37+00:00"
+    },
+    "workday:analogdevices:R264371": {
+      "seen_at": "2026-08-17T02:37:02+00:00"
     },
     "workday:analogdevices:R264380": {
       "seen_at": "2026-08-11T07:25:03+00:00"
@@ -62398,6 +62404,42 @@
     },
     "workday:analogdevices:R265050": {
       "seen_at": "2026-08-14T13:56:05+00:00"
+    },
+    "workday:analogdevices:R265074": {
+      "seen_at": "2026-08-17T02:37:02+00:00"
+    },
+    "workday:analogdevices:R265075": {
+      "seen_at": "2026-08-17T02:37:02+00:00"
+    },
+    "workday:analogdevices:R265076": {
+      "seen_at": "2026-08-17T02:37:02+00:00"
+    },
+    "workday:analogdevices:R265077": {
+      "seen_at": "2026-08-17T02:37:02+00:00"
+    },
+    "workday:analogdevices:R265078": {
+      "seen_at": "2026-08-17T02:37:02+00:00"
+    },
+    "workday:analogdevices:R265080": {
+      "seen_at": "2026-08-17T02:37:02+00:00"
+    },
+    "workday:analogdevices:R265081": {
+      "seen_at": "2026-08-17T02:37:02+00:00"
+    },
+    "workday:analogdevices:R265082": {
+      "seen_at": "2026-08-17T02:37:02+00:00"
+    },
+    "workday:analogdevices:R265083": {
+      "seen_at": "2026-08-17T02:37:02+00:00"
+    },
+    "workday:analogdevices:R265085": {
+      "seen_at": "2026-08-17T02:37:02+00:00"
+    },
+    "workday:analogdevices:R265086": {
+      "seen_at": "2026-08-17T02:37:02+00:00"
+    },
+    "workday:analogdevices:R265087": {
+      "seen_at": "2026-08-17T02:37:02+00:00"
     },
     "workday:autodesk:21WD52563": {
       "seen_at": "2026-08-10T15:42:25+00:00"
@@ -78127,6 +78169,9 @@
     },
     "workday:capitalone:R249315": {
       "seen_at": "2026-08-14T16:25:32+00:00"
+    },
+    "workday:capitalone:R249316": {
+      "seen_at": "2026-08-17T02:37:02+00:00"
     },
     "workday:capitalone:R249319": {
       "seen_at": "2026-08-14T16:39:54+00:00"
@@ -109508,6 +109553,9 @@
     "workday:hpe:1205826": {
       "seen_at": "2026-08-03T18:06:12+00:00"
     },
+    "workday:hpe:1205906": {
+      "seen_at": "2026-08-17T02:37:02+00:00"
+    },
     "workday:hpe:1205907": {
       "seen_at": "2026-07-28T19:57:07+00:00"
     },
@@ -120902,6 +120950,9 @@
     "workday:micron:JR106607": {
       "seen_at": "2026-07-28T06:44:51+00:00"
     },
+    "workday:micron:JR106609": {
+      "seen_at": "2026-08-17T02:37:02+00:00"
+    },
     "workday:micron:JR106613": {
       "seen_at": "2026-08-06T03:40:10+00:00"
     },
@@ -121895,6 +121946,9 @@
     "workday:micron:JR108251": {
       "seen_at": "2026-08-05T21:26:02+00:00"
     },
+    "workday:micron:JR108254": {
+      "seen_at": "2026-08-17T02:37:02+00:00"
+    },
     "workday:micron:JR108271": {
       "seen_at": "2026-08-07T00:29:49+00:00"
     },
@@ -122099,6 +122153,9 @@
     "workday:micron:JR108833": {
       "seen_at": "2026-08-16T04:10:08+00:00"
     },
+    "workday:micron:JR108852": {
+      "seen_at": "2026-08-17T02:37:02+00:00"
+    },
     "workday:micron:JR108935": {
       "seen_at": "2026-08-13T13:45:42+00:00"
     },
@@ -122116,6 +122173,12 @@
     },
     "workday:micron:JR109073": {
       "seen_at": "2026-08-14T19:59:47+00:00"
+    },
+    "workday:micron:JR109101": {
+      "seen_at": "2026-08-17T02:37:02+00:00"
+    },
+    "workday:micron:JR109105": {
+      "seen_at": "2026-08-17T02:37:02+00:00"
     },
     "workday:micron:JR61702": {
       "seen_at": "2026-08-17T01:20:40+00:00"
@@ -122851,6 +122914,9 @@
     },
     "workday:micron:JR96684": {
       "seen_at": "2026-07-17T20:59:28+00:00"
+    },
+    "workday:micron:JR96850": {
+      "seen_at": "2026-08-17T02:37:02+00:00"
     },
     "workday:micron:JR96891": {
       "seen_at": "2026-07-30T08:44:39+00:00"
@@ -132434,6 +132500,9 @@
     "workday:nvidia:JR2022868": {
       "seen_at": "2026-08-10T17:34:17+00:00"
     },
+    "workday:nvidia:JR2022872": {
+      "seen_at": "2026-08-17T02:37:02+00:00"
+    },
     "workday:nvidia:JR2022875": {
       "seen_at": "2026-08-06T11:59:48+00:00"
     },
@@ -132463,6 +132532,9 @@
     },
     "workday:nvidia:JR2022908": {
       "seen_at": "2026-08-07T23:26:45+00:00"
+    },
+    "workday:nvidia:JR2022909": {
+      "seen_at": "2026-08-17T02:37:02+00:00"
     },
     "workday:nvidia:JR2022910": {
       "seen_at": "2026-08-07T00:29:49+00:00"
@@ -135583,6 +135655,12 @@
     },
     "workday:paloaltonetworks:JR-021293": {
       "seen_at": "2026-08-14T17:09:35+00:00"
+    },
+    "workday:paloaltonetworks:JR-021349": {
+      "seen_at": "2026-08-17T02:37:02+00:00"
+    },
+    "workday:paloaltonetworks:JR-021350": {
+      "seen_at": "2026-08-17T02:37:02+00:00"
     },
     "workday:paypal:R0132102": {
       "seen_at": "2026-07-27T18:04:05+00:00"
@@ -145300,6 +145378,9 @@
     },
     "workday:salesforce:JR343877": {
       "seen_at": "2026-07-08T16:14:43+00:00"
+    },
+    "workday:salesforce:JR343895": {
+      "seen_at": "2026-08-17T02:37:02+00:00"
     },
     "workday:salesforce:JR343944": {
       "seen_at": "2026-07-28T13:13:43+00:00"
@@ -167074,6 +167155,9 @@
     },
     "workday:tsys:R0072754": {
       "seen_at": "2026-07-08T16:14:43+00:00"
+    },
+    "workday:tsys:R0072762": {
+      "seen_at": "2026-08-17T02:37:02+00:00"
     },
     "workday:tsys:R0072764": {
       "seen_at": "2026-08-03T08:01:09+00:00"
