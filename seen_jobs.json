@@ -142,13 +142,13 @@
       "consecutive_failures": 0,
       "warned_failures": false,
       "warned_zero": false,
-      "zero_since": "2026-08-18"
+      "zero_since": null
     },
     "github/SimplifyJobs/Summer2026-Internships": {
       "consecutive_failures": 0,
       "warned_failures": false,
       "warned_zero": false,
-      "zero_since": "2026-08-18"
+      "zero_since": null
     },
     "greenhouse/adyen": {
       "consecutive_failures": 0,
@@ -60187,6 +60187,9 @@
     },
     "greenhouse:stripe:8128499": {
       "seen_at": "2026-08-14T19:06:22+00:00"
+    },
+    "greenhouse:stripe:8128552": {
+      "seen_at": "2026-08-18T22:47:15+00:00"
     },
     "greenhouse:stripe:8128632": {
       "seen_at": "2026-08-17T17:53:27+00:00"
@@ -180487,6 +180490,9 @@
     },
     "workday:zoom:R19555": {
       "seen_at": "2026-08-18T08:48:39+00:00"
+    },
+    "workday:zoom:R19558": {
+      "seen_at": "2026-08-18T22:47:15+00:00"
     }
   }
 }
