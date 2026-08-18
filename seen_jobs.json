@@ -148,7 +148,7 @@
       "consecutive_failures": 0,
       "warned_failures": false,
       "warned_zero": false,
-      "zero_since": "2026-08-18"
+      "zero_since": null
     },
     "greenhouse/adyen": {
       "consecutive_failures": 0,
@@ -100471,6 +100471,9 @@
     },
     "workday:crowdstrike:R29844": {
       "seen_at": "2026-08-17T22:18:21+00:00"
+    },
+    "workday:crowdstrike:R29871": {
+      "seen_at": "2026-08-18T04:09:10+00:00"
     },
     "workday:ebay:R0060042": {
       "seen_at": "2026-08-12T14:56:05+00:00"
