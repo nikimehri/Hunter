@@ -142,13 +142,13 @@
       "consecutive_failures": 0,
       "warned_failures": false,
       "warned_zero": false,
-      "zero_since": "2026-08-19"
+      "zero_since": null
     },
     "github/SimplifyJobs/Summer2026-Internships": {
       "consecutive_failures": 0,
       "warned_failures": false,
       "warned_zero": false,
-      "zero_since": null
+      "zero_since": "2026-08-19"
     },
     "greenhouse/adyen": {
       "consecutive_failures": 0,
@@ -1178,6 +1178,9 @@
     "ashby:cohere:c199be74-1770-4db2-a06e-474bad4716fe": {
       "seen_at": "2026-07-08T16:14:43+00:00"
     },
+    "ashby:cohere:c21c76f0-4a2f-4666-a256-01f454d1d479": {
+      "seen_at": "2026-08-19T14:10:42+00:00"
+    },
     "ashby:cohere:c80f0fe9-3fc4-49fe-9f26-a7115350b1fc": {
       "seen_at": "2026-07-08T16:14:43+00:00"
     },
@@ -1273,6 +1276,9 @@
     },
     "ashby:cohere:f00dbf81-17ff-4584-b015-67dfae1dc59c": {
       "seen_at": "2026-07-08T16:14:43+00:00"
+    },
+    "ashby:cohere:f154a1cb-b7c1-4f74-ac50-04ef9dcfc9e0": {
+      "seen_at": "2026-08-19T14:10:42+00:00"
     },
     "ashby:cohere:f3cf5d6a-5a93-41b5-8a00-160e120859ff": {
       "seen_at": "2026-07-08T16:14:43+00:00"
@@ -24449,6 +24455,9 @@
     "github:SimplifyJobs/New-Grad-Positions:818b6742-1ac3-4971-a101-50412e68b6f8": {
       "seen_at": "2026-08-01T12:43:26+00:00"
     },
+    "github:SimplifyJobs/New-Grad-Positions:818c0cd0-d0e6-4a8b-ad0d-80cf17c1f4ad": {
+      "seen_at": "2026-08-19T14:10:42+00:00"
+    },
     "github:SimplifyJobs/New-Grad-Positions:81a162f0-c50f-4320-881a-dc2c5ca10e48": {
       "seen_at": "2026-07-05T21:08:29+00:00"
     },
@@ -28777,6 +28786,9 @@
     },
     "github:SimplifyJobs/New-Grad-Positions:b488a843-82e3-4e2a-8ad4-720e0032ee23": {
       "seen_at": "2026-07-30T12:19:20+00:00"
+    },
+    "github:SimplifyJobs/New-Grad-Positions:b4a8f426-6ada-440c-9532-098801627864": {
+      "seen_at": "2026-08-19T14:10:42+00:00"
     },
     "github:SimplifyJobs/New-Grad-Positions:b4ad4629-f0a9-4e6f-b201-d0b42f4a6dec": {
       "seen_at": "2026-07-23T22:38:51+00:00"
@@ -88844,6 +88856,9 @@
     "workday:citi:26967678": {
       "seen_at": "2026-07-16T08:49:54+00:00"
     },
+    "workday:citi:26967680": {
+      "seen_at": "2026-08-19T14:10:42+00:00"
+    },
     "workday:citi:26967685": {
       "seen_at": "2026-07-10T05:49:58+00:00"
     },
@@ -100841,6 +100856,9 @@
     "workday:citi:26986709": {
       "seen_at": "2026-08-14T06:37:37+00:00"
     },
+    "workday:citi:26986720": {
+      "seen_at": "2026-08-19T14:10:42+00:00"
+    },
     "workday:citi:26986735": {
       "seen_at": "2026-08-19T06:19:01+00:00"
     },
@@ -101479,6 +101497,9 @@
     },
     "workday:citi:26987962": {
       "seen_at": "2026-08-18T20:42:46+00:00"
+    },
+    "workday:citi:26988031": {
+      "seen_at": "2026-08-19T14:10:42+00:00"
     },
     "workday:citi:26988035": {
       "seen_at": "2026-08-18T15:44:35+00:00"
@@ -124925,6 +124946,9 @@
     "workday:mastercard:R-287485": {
       "seen_at": "2026-08-17T05:35:09+00:00"
     },
+    "workday:mastercard:R-287490": {
+      "seen_at": "2026-08-19T14:10:41+00:00"
+    },
     "workday:mastercard:R-287496": {
       "seen_at": "2026-08-05T17:23:49+00:00"
     },
@@ -125317,6 +125341,9 @@
     },
     "workday:mastercard:R-288607": {
       "seen_at": "2026-08-18T07:49:53+00:00"
+    },
+    "workday:mastercard:R-288639": {
+      "seen_at": "2026-08-19T14:10:42+00:00"
     },
     "workday:mastercard:R-288676": {
       "seen_at": "2026-08-18T00:58:36+00:00"
@@ -133903,6 +133930,9 @@
     },
     "workday:ms:PT-JR041535": {
       "seen_at": "2026-07-29T07:44:36+00:00"
+    },
+    "workday:ms:PT-JR041542": {
+      "seen_at": "2026-08-19T14:10:42+00:00"
     },
     "workday:ms:PT-JR041544": {
       "seen_at": "2026-07-31T07:35:15+00:00"
@@ -143432,6 +143462,9 @@
     "workday:paloaltonetworks:JR-021088": {
       "seen_at": "2026-08-14T21:49:00+00:00"
     },
+    "workday:paloaltonetworks:JR-021095": {
+      "seen_at": "2026-08-19T14:10:42+00:00"
+    },
     "workday:paloaltonetworks:JR-021100": {
       "seen_at": "2026-08-13T16:30:46+00:00"
     },
@@ -151943,8 +151976,14 @@
     "workday:rbc:R-0000184881": {
       "seen_at": "2026-08-19T00:08:54+00:00"
     },
+    "workday:rbc:R-0000184886": {
+      "seen_at": "2026-08-19T14:10:42+00:00"
+    },
     "workday:rbc:R-0000184897": {
       "seen_at": "2026-08-19T14:03:28+00:00"
+    },
+    "workday:rbc:R-0000184912": {
+      "seen_at": "2026-08-19T14:10:42+00:00"
     },
     "workday:redhat:R-043519": {
       "seen_at": "2026-07-28T04:19:45+00:00"
@@ -159607,6 +159646,9 @@
     },
     "workday:sec:R55619": {
       "seen_at": "2026-07-30T06:12:20+00:00"
+    },
+    "workday:sonyglobal:JR-118289": {
+      "seen_at": "2026-08-19T14:10:42+00:00"
     },
     "workday:sonyglobal:JR-118324": {
       "seen_at": "2026-07-08T16:14:43+00:00"
@@ -176264,6 +176306,9 @@
     "workday:td:R_1505489": {
       "seen_at": "2026-08-17T14:29:36+00:00"
     },
+    "workday:td:R_1505491": {
+      "seen_at": "2026-08-19T14:10:42+00:00"
+    },
     "workday:td:R_1505492": {
       "seen_at": "2026-08-14T12:05:31+00:00"
     },
@@ -182476,6 +182521,9 @@
     },
     "workday:zoom:R19556": {
       "seen_at": "2026-08-19T13:11:45+00:00"
+    },
+    "workday:zoom:R19557": {
+      "seen_at": "2026-08-19T14:10:42+00:00"
     },
     "workday:zoom:R19558": {
       "seen_at": "2026-08-18T22:47:15+00:00"
