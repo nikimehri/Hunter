@@ -148,7 +148,7 @@
       "consecutive_failures": 0,
       "warned_failures": false,
       "warned_zero": false,
-      "zero_since": "2026-08-20"
+      "zero_since": null
     },
     "greenhouse/adyen": {
       "consecutive_failures": 0,
@@ -50521,6 +50521,9 @@
     },
     "greenhouse:anthropic:5394948008": {
       "seen_at": "2026-08-19T01:37:16+00:00"
+    },
+    "greenhouse:anthropic:5394958008": {
+      "seen_at": "2026-08-20T04:51:28+00:00"
     },
     "greenhouse:anthropic:5394993008": {
       "seen_at": "2026-08-19T20:11:30+00:00"
@@ -101051,6 +101054,9 @@
     "workday:citi:26985154": {
       "seen_at": "2026-08-07T15:24:48+00:00"
     },
+    "workday:citi:26985157": {
+      "seen_at": "2026-08-20T04:51:28+00:00"
+    },
     "workday:citi:26985159": {
       "seen_at": "2026-08-12T16:31:05+00:00"
     },
@@ -105479,6 +105485,9 @@
     "workday:ebay:R0075550": {
       "seen_at": "2026-08-13T09:22:01+00:00"
     },
+    "workday:ebay:R0075557": {
+      "seen_at": "2026-08-20T04:51:28+00:00"
+    },
     "workday:ebay:R0075561": {
       "seen_at": "2026-07-15T16:29:00+00:00"
     },
@@ -109837,6 +109846,9 @@
     },
     "workday:fiserv:R-10398531": {
       "seen_at": "2026-08-11T04:30:19+00:00"
+    },
+    "workday:fiserv:R-10398533": {
+      "seen_at": "2026-08-20T04:51:28+00:00"
     },
     "workday:fiserv:R-10398536": {
       "seen_at": "2026-07-21T16:06:03+00:00"
@@ -127657,6 +127669,9 @@
     },
     "workday:micron:JR103094": {
       "seen_at": "2026-07-09T17:42:11+00:00"
+    },
+    "workday:micron:JR103096": {
+      "seen_at": "2026-08-20T04:51:28+00:00"
     },
     "workday:micron:JR103103": {
       "seen_at": "2026-07-10T19:36:55+00:00"
@@ -184393,6 +184408,9 @@
     },
     "workday:workday:JR-0109008": {
       "seen_at": "2026-07-27T22:01:57+00:00"
+    },
+    "workday:workday:JR-0109013": {
+      "seen_at": "2026-08-20T04:51:28+00:00"
     },
     "workday:workday:JR-0109017": {
       "seen_at": "2026-07-29T16:51:41+00:00"
