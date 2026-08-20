@@ -148,7 +148,7 @@
       "consecutive_failures": 0,
       "warned_failures": false,
       "warned_zero": false,
-      "zero_since": "2026-08-20"
+      "zero_since": null
     },
     "greenhouse/adyen": {
       "consecutive_failures": 0,
@@ -83084,6 +83084,9 @@
     "workday:capitalone:R249637": {
       "seen_at": "2026-08-19T17:04:10+00:00"
     },
+    "workday:capitalone:R249640": {
+      "seen_at": "2026-08-20T12:33:11+00:00"
+    },
     "workday:capitalone:R249657": {
       "seen_at": "2026-08-19T18:28:00+00:00"
     },
@@ -101605,6 +101608,9 @@
     },
     "workday:citi:26985564": {
       "seen_at": "2026-08-14T14:58:52+00:00"
+    },
+    "workday:citi:26985565": {
+      "seen_at": "2026-08-20T12:33:11+00:00"
     },
     "workday:citi:26985567": {
       "seen_at": "2026-08-13T09:49:25+00:00"
@@ -127420,6 +127426,9 @@
     },
     "workday:mastercard:R-288588": {
       "seen_at": "2026-08-19T10:29:43+00:00"
+    },
+    "workday:mastercard:R-288591": {
+      "seen_at": "2026-08-20T12:33:11+00:00"
     },
     "workday:mastercard:R-288606": {
       "seen_at": "2026-08-18T14:55:56+00:00"
@@ -160609,6 +160618,9 @@
     },
     "workday:salesforce:JR356729": {
       "seen_at": "2026-08-19T15:59:04+00:00"
+    },
+    "workday:salesforce:JR356818": {
+      "seen_at": "2026-08-20T12:33:11+00:00"
     },
     "workday:sec:R100016": {
       "seen_at": "2026-07-27T11:44:16+00:00"
