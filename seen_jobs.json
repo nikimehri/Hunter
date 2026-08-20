@@ -148,7 +148,7 @@
       "consecutive_failures": 0,
       "warned_failures": false,
       "warned_zero": false,
-      "zero_since": null
+      "zero_since": "2026-08-20"
     },
     "greenhouse/adyen": {
       "consecutive_failures": 0,
@@ -66665,6 +66665,9 @@
     "workday:autodesk:26WD100286": {
       "seen_at": "2026-07-31T20:23:57+00:00"
     },
+    "workday:autodesk:26WD100287": {
+      "seen_at": "2026-08-20T21:07:00+00:00"
+    },
     "workday:autodesk:26WD100300": {
       "seen_at": "2026-08-05T11:35:47+00:00"
     },
@@ -76256,6 +76259,9 @@
     "workday:bmo:R260024328": {
       "seen_at": "2026-08-18T22:15:10+00:00"
     },
+    "workday:bmo:R260024329": {
+      "seen_at": "2026-08-20T21:07:00+00:00"
+    },
     "workday:bmo:R260024331": {
       "seen_at": "2026-08-19T15:37:15+00:00"
     },
@@ -76424,8 +76430,14 @@
     "workday:bmo:R260024613": {
       "seen_at": "2026-08-20T18:38:37+00:00"
     },
+    "workday:bmo:R260024624": {
+      "seen_at": "2026-08-20T21:07:00+00:00"
+    },
     "workday:bmo:R260024631": {
       "seen_at": "2026-08-20T20:59:52+00:00"
+    },
+    "workday:bmo:R260024676": {
+      "seen_at": "2026-08-20T21:07:00+00:00"
     },
     "workday:broadcom:R023794": {
       "seen_at": "2026-08-14T14:30:48+00:00"
@@ -88531,6 +88543,9 @@
     },
     "workday:cibc:2617415": {
       "seen_at": "2026-08-20T20:57:32+00:00"
+    },
+    "workday:cibc:2617427": {
+      "seen_at": "2026-08-20T21:07:00+00:00"
     },
     "workday:citi:25848278": {
       "seen_at": "2026-07-21T12:16:01+00:00"
@@ -132667,6 +132682,9 @@
     },
     "workday:micron:JR108952": {
       "seen_at": "2026-08-18T16:23:29+00:00"
+    },
+    "workday:micron:JR108959": {
+      "seen_at": "2026-08-20T21:07:00+00:00"
     },
     "workday:micron:JR108967": {
       "seen_at": "2026-08-18T21:13:28+00:00"
@@ -181835,11 +181853,17 @@
     "workday:td:R_1505796": {
       "seen_at": "2026-08-19T15:37:15+00:00"
     },
+    "workday:td:R_1505797": {
+      "seen_at": "2026-08-20T21:07:00+00:00"
+    },
     "workday:td:R_1505805": {
       "seen_at": "2026-08-17T22:08:20+00:00"
     },
     "workday:td:R_1505810": {
       "seen_at": "2026-08-19T22:46:24+00:00"
+    },
+    "workday:td:R_1505819": {
+      "seen_at": "2026-08-20T21:06:59+00:00"
     },
     "workday:td:R_1505820": {
       "seen_at": "2026-08-17T15:16:54+00:00"
