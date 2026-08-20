@@ -148,7 +148,7 @@
       "consecutive_failures": 0,
       "warned_failures": false,
       "warned_zero": false,
-      "zero_since": "2026-08-20"
+      "zero_since": null
     },
     "greenhouse/adyen": {
       "consecutive_failures": 0,
@@ -136147,6 +136147,9 @@
     },
     "workday:ms:PT-JR042404": {
       "seen_at": "2026-08-18T10:24:50+00:00"
+    },
+    "workday:ms:PT-JR042427": {
+      "seen_at": "2026-08-20T05:36:26+00:00"
     },
     "workday:ms:PT-JR042429": {
       "seen_at": "2026-08-17T13:16:33+00:00"
