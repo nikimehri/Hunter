@@ -148,7 +148,7 @@
       "consecutive_failures": 0,
       "warned_failures": false,
       "warned_zero": false,
-      "zero_since": "2026-08-19"
+      "zero_since": null
     },
     "greenhouse/adyen": {
       "consecutive_failures": 0,
@@ -50266,6 +50266,9 @@
     },
     "greenhouse:anthropic:5390984008": {
       "seen_at": "2026-08-19T20:52:17+00:00"
+    },
+    "greenhouse:anthropic:5391012008": {
+      "seen_at": "2026-08-20T00:03:32+00:00"
     },
     "greenhouse:anthropic:5391016008": {
       "seen_at": "2026-08-17T12:09:27+00:00"
@@ -102626,6 +102629,9 @@
     "workday:citi:26987916": {
       "seen_at": "2026-08-19T22:18:49+00:00"
     },
+    "workday:citi:26987928": {
+      "seen_at": "2026-08-20T00:03:32+00:00"
+    },
     "workday:citi:26987939": {
       "seen_at": "2026-08-17T17:23:04+00:00"
     },
@@ -126655,6 +126661,9 @@
     },
     "workday:mastercard:R-288330": {
       "seen_at": "2026-08-12T05:53:54+00:00"
+    },
+    "workday:mastercard:R-288352": {
+      "seen_at": "2026-08-20T00:03:32+00:00"
     },
     "workday:mastercard:R-288372": {
       "seen_at": "2026-08-18T17:33:34+00:00"
