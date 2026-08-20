@@ -142,13 +142,13 @@
       "consecutive_failures": 0,
       "warned_failures": false,
       "warned_zero": false,
-      "zero_since": "2026-08-20"
+      "zero_since": null
     },
     "github/SimplifyJobs/Summer2026-Internships": {
       "consecutive_failures": 0,
       "warned_failures": false,
       "warned_zero": false,
-      "zero_since": null
+      "zero_since": "2026-08-20"
     },
     "greenhouse/adyen": {
       "consecutive_failures": 0,
@@ -742,6 +742,9 @@
     },
     "ashby:cohere:013d4545-8343-40f1-9de5-9fdc0f0dd5bb": {
       "seen_at": "2026-07-08T16:14:43+00:00"
+    },
+    "ashby:cohere:0183bddd-f845-4e7e-af69-e6178cdc32be": {
+      "seen_at": "2026-08-20T19:09:54+00:00"
     },
     "ashby:cohere:01a34bc3-6421-4af2-bf5b-f42e98155dda": {
       "seen_at": "2026-07-08T16:14:43+00:00"
@@ -9787,6 +9790,9 @@
     },
     "ashby:openai:f51f750f-a737-4441-8f96-30133a2a8049": {
       "seen_at": "2026-07-05T22:02:14+00:00"
+    },
+    "ashby:openai:f520fee9-859b-41e4-9f0b-ae03da7fca88": {
+      "seen_at": "2026-08-20T19:09:52+00:00"
     },
     "ashby:openai:f56ab5d8-9f0c-4622-906b-554ca28bd0ff": {
       "seen_at": "2026-07-05T22:02:14+00:00"
@@ -50639,6 +50645,9 @@
     "greenhouse:anthropic:5390799008": {
       "seen_at": "2026-08-19T05:17:50+00:00"
     },
+    "greenhouse:anthropic:5390865008": {
+      "seen_at": "2026-08-20T19:09:53+00:00"
+    },
     "greenhouse:anthropic:5390877008": {
       "seen_at": "2026-08-18T17:04:27+00:00"
     },
@@ -76148,6 +76157,9 @@
     "workday:bmo:R260024319": {
       "seen_at": "2026-08-18T15:13:01+00:00"
     },
+    "workday:bmo:R260024321": {
+      "seen_at": "2026-08-20T19:09:54+00:00"
+    },
     "workday:bmo:R260024323": {
       "seen_at": "2026-08-18T21:13:29+00:00"
     },
@@ -76237,6 +76249,9 @@
     },
     "workday:bmo:R260024473": {
       "seen_at": "2026-08-19T14:49:13+00:00"
+    },
+    "workday:bmo:R260024476": {
+      "seen_at": "2026-08-20T19:09:54+00:00"
     },
     "workday:bmo:R260024497": {
       "seen_at": "2026-08-19T17:56:17+00:00"
@@ -77599,6 +77614,9 @@
     },
     "workday:capitalone:R231301": {
       "seen_at": "2026-07-30T21:36:12+00:00"
+    },
+    "workday:capitalone:R231624": {
+      "seen_at": "2026-08-20T19:09:54+00:00"
     },
     "workday:capitalone:R231753": {
       "seen_at": "2026-07-15T09:32:38+00:00"
@@ -102973,6 +102991,9 @@
     },
     "workday:citi:26986642": {
       "seen_at": "2026-08-12T02:37:12+00:00"
+    },
+    "workday:citi:26986643": {
+      "seen_at": "2026-08-20T19:09:54+00:00"
     },
     "workday:citi:26986645": {
       "seen_at": "2026-08-20T13:22:53+00:00"
@@ -129137,6 +129158,9 @@
     "workday:micron:JR103406": {
       "seen_at": "2026-07-17T22:35:13+00:00"
     },
+    "workday:micron:JR103410": {
+      "seen_at": "2026-08-20T19:09:54+00:00"
+    },
     "workday:micron:JR103421": {
       "seen_at": "2026-07-24T18:46:00+00:00"
     },
@@ -132394,6 +132418,9 @@
     },
     "workday:micron:JR109073": {
       "seen_at": "2026-08-14T19:59:47+00:00"
+    },
+    "workday:micron:JR109077": {
+      "seen_at": "2026-08-20T19:09:54+00:00"
     },
     "workday:micron:JR109101": {
       "seen_at": "2026-08-17T02:37:02+00:00"
@@ -146867,6 +146894,9 @@
     "workday:paloaltonetworks:JR-020853": {
       "seen_at": "2026-08-14T14:44:39+00:00"
     },
+    "workday:paloaltonetworks:JR-020862": {
+      "seen_at": "2026-08-20T19:09:54+00:00"
+    },
     "workday:paloaltonetworks:JR-020863": {
       "seen_at": "2026-08-04T09:48:13+00:00"
     },
@@ -156052,6 +156082,9 @@
     },
     "workday:rbc:R-0000185192": {
       "seen_at": "2026-08-20T18:52:41+00:00"
+    },
+    "workday:rbc:R-0000185194": {
+      "seen_at": "2026-08-20T19:09:54+00:00"
     },
     "workday:redhat:R-043519": {
       "seen_at": "2026-07-28T04:19:45+00:00"
@@ -172246,6 +172279,9 @@
     },
     "workday:statestreet:R-796397": {
       "seen_at": "2026-08-20T16:26:47+00:00"
+    },
+    "workday:statestreet:R-796405": {
+      "seen_at": "2026-08-20T19:09:54+00:00"
     },
     "workday:td:R_1384739": {
       "seen_at": "2026-07-08T16:14:43+00:00"
