@@ -142,13 +142,13 @@
       "consecutive_failures": 0,
       "warned_failures": false,
       "warned_zero": false,
-      "zero_since": "2026-08-21"
+      "zero_since": null
     },
     "github/SimplifyJobs/Summer2026-Internships": {
       "consecutive_failures": 0,
       "warned_failures": false,
       "warned_zero": false,
-      "zero_since": null
+      "zero_since": "2026-08-21"
     },
     "greenhouse/adyen": {
       "consecutive_failures": 0,
@@ -5536,6 +5536,9 @@
     },
     "ashby:lambda:a8a0ad0c-376f-4b24-ba68-fe71f4bf68fe": {
       "seen_at": "2026-07-29T18:14:51+00:00"
+    },
+    "ashby:lambda:a8cb384a-b3ea-40a9-b592-b94639b727c7": {
+      "seen_at": "2026-08-21T23:40:56+00:00"
     },
     "ashby:lambda:ab7be2d6-9e25-4ba7-9b23-bf3ade24fa65": {
       "seen_at": "2026-07-15T03:20:56+00:00"
@@ -52028,6 +52031,9 @@
     "greenhouse:anthropic:5398280008": {
       "seen_at": "2026-08-21T20:37:29+00:00"
     },
+    "greenhouse:anthropic:5398753008": {
+      "seen_at": "2026-08-21T23:40:56+00:00"
+    },
     "greenhouse:block:4667604008": {
       "seen_at": "2026-08-17T21:07:08+00:00"
     },
@@ -63121,6 +63127,9 @@
     },
     "greenhouse:stripe:8146159": {
       "seen_at": "2026-08-21T17:14:00+00:00"
+    },
+    "greenhouse:stripe:8146271": {
+      "seen_at": "2026-08-21T23:40:56+00:00"
     },
     "greenhouse:vercel:5039945004": {
       "seen_at": "2026-07-05T22:02:14+00:00"
@@ -160111,6 +160120,9 @@
     },
     "workday:rbc:R-0000185440": {
       "seen_at": "2026-08-21T20:20:01+00:00"
+    },
+    "workday:rbc:R-0000185474": {
+      "seen_at": "2026-08-21T23:40:56+00:00"
     },
     "workday:redhat:R-043519": {
       "seen_at": "2026-07-28T04:19:45+00:00"
