@@ -148,7 +148,7 @@
       "consecutive_failures": 0,
       "warned_failures": false,
       "warned_zero": false,
-      "zero_since": "2026-08-21"
+      "zero_since": null
     },
     "greenhouse/adyen": {
       "consecutive_failures": 0,
@@ -109154,6 +109154,9 @@
     "workday:ebay:R0076531": {
       "seen_at": "2026-08-20T23:40:52+00:00"
     },
+    "workday:ebay:R0076581": {
+      "seen_at": "2026-08-21T16:36:00+00:00"
+    },
     "workday:fis:JR0295351": {
       "seen_at": "2026-07-08T16:14:43+00:00"
     },
@@ -138235,6 +138238,9 @@
     },
     "workday:ms:JR042723": {
       "seen_at": "2026-08-20T19:48:05+00:00"
+    },
+    "workday:ms:JR042737": {
+      "seen_at": "2026-08-21T16:36:00+00:00"
     },
     "workday:ms:JR042738": {
       "seen_at": "2026-08-21T15:50:15+00:00"
