@@ -142,13 +142,13 @@
       "consecutive_failures": 0,
       "warned_failures": false,
       "warned_zero": false,
-      "zero_since": "2026-08-21"
+      "zero_since": null
     },
     "github/SimplifyJobs/Summer2026-Internships": {
       "consecutive_failures": 0,
       "warned_failures": false,
       "warned_zero": false,
-      "zero_since": null
+      "zero_since": "2026-08-21"
     },
     "greenhouse/adyen": {
       "consecutive_failures": 0,
@@ -48344,6 +48344,9 @@
     "greenhouse:adyen:8122720": {
       "seen_at": "2026-08-12T07:29:26+00:00"
     },
+    "greenhouse:adyen:8124380": {
+      "seen_at": "2026-08-21T13:38:36+00:00"
+    },
     "greenhouse:adyen:8128101": {
       "seen_at": "2026-08-14T20:06:46+00:00"
     },
@@ -62477,6 +62480,9 @@
     "greenhouse:stripe:8142770": {
       "seen_at": "2026-08-19T20:42:31+00:00"
     },
+    "greenhouse:stripe:8143563": {
+      "seen_at": "2026-08-21T13:38:36+00:00"
+    },
     "greenhouse:stripe:8144223": {
       "seen_at": "2026-08-21T05:16:33+00:00"
     },
@@ -70681,6 +70687,9 @@
     },
     "workday:bmo:R260011719": {
       "seen_at": "2026-07-16T19:06:43+00:00"
+    },
+    "workday:bmo:R260011758": {
+      "seen_at": "2026-08-21T13:38:36+00:00"
     },
     "workday:bmo:R260011762": {
       "seen_at": "2026-07-14T14:10:56+00:00"
@@ -84626,6 +84635,12 @@
     "workday:capitalone:R249824": {
       "seen_at": "2026-08-21T12:58:55+00:00"
     },
+    "workday:capitalone:R249828": {
+      "seen_at": "2026-08-21T13:38:36+00:00"
+    },
+    "workday:capitalone:R249831": {
+      "seen_at": "2026-08-21T13:38:36+00:00"
+    },
     "workday:cibc:2407091": {
       "seen_at": "2026-07-09T20:59:09+00:00"
     },
@@ -88435,6 +88450,9 @@
     },
     "workday:cibc:2616301": {
       "seen_at": "2026-08-05T18:24:35+00:00"
+    },
+    "workday:cibc:2616303": {
+      "seen_at": "2026-08-21T13:38:36+00:00"
     },
     "workday:cibc:2616304": {
       "seen_at": "2026-08-05T23:27:32+00:00"
@@ -105353,6 +105371,9 @@
     "workday:citi:26988898": {
       "seen_at": "2026-08-20T14:57:50+00:00"
     },
+    "workday:citi:26988907": {
+      "seen_at": "2026-08-21T13:38:36+00:00"
+    },
     "workday:citi:26988928": {
       "seen_at": "2026-08-20T20:12:17+00:00"
     },
@@ -114334,6 +114355,9 @@
     },
     "workday:fmr:2129134": {
       "seen_at": "2026-07-23T20:06:01+00:00"
+    },
+    "workday:fmr:2129145": {
+      "seen_at": "2026-08-21T13:38:36+00:00"
     },
     "workday:fmr:2129150": {
       "seen_at": "2026-07-12T06:22:18+00:00"
@@ -157907,6 +157931,9 @@
     "workday:rbc:R-0000184801": {
       "seen_at": "2026-08-18T17:18:46+00:00"
     },
+    "workday:rbc:R-0000184807": {
+      "seen_at": "2026-08-21T13:38:36+00:00"
+    },
     "workday:rbc:R-0000184810": {
       "seen_at": "2026-08-18T17:18:46+00:00"
     },
@@ -170447,6 +170474,9 @@
     "workday:statestreet:R-792661": {
       "seen_at": "2026-08-12T11:48:45+00:00"
     },
+    "workday:statestreet:R-792664": {
+      "seen_at": "2026-08-21T13:38:36+00:00"
+    },
     "workday:statestreet:R-792666": {
       "seen_at": "2026-07-13T20:33:46+00:00"
     },
@@ -174484,6 +174514,9 @@
     },
     "workday:statestreet:R-796444": {
       "seen_at": "2026-08-21T13:24:07+00:00"
+    },
+    "workday:statestreet:R-796446": {
+      "seen_at": "2026-08-21T13:38:36+00:00"
     },
     "workday:td:R_1384739": {
       "seen_at": "2026-07-08T16:14:43+00:00"
