@@ -148,7 +148,7 @@
       "consecutive_failures": 0,
       "warned_failures": false,
       "warned_zero": false,
-      "zero_since": "2026-08-21"
+      "zero_since": null
     },
     "greenhouse/adyen": {
       "consecutive_failures": 0,
@@ -104426,6 +104426,9 @@
     "workday:citi:26987500": {
       "seen_at": "2026-08-18T12:49:03+00:00"
     },
+    "workday:citi:26987502": {
+      "seen_at": "2026-08-21T05:09:36+00:00"
+    },
     "workday:citi:26987504": {
       "seen_at": "2026-08-20T14:29:36+00:00"
     },
@@ -104884,6 +104887,12 @@
     },
     "workday:citi:26988804": {
       "seen_at": "2026-08-20T14:22:29+00:00"
+    },
+    "workday:citi:26988806": {
+      "seen_at": "2026-08-21T05:09:36+00:00"
+    },
+    "workday:citi:26988809": {
+      "seen_at": "2026-08-21T05:09:36+00:00"
     },
     "workday:citi:26988839": {
       "seen_at": "2026-08-20T12:49:31+00:00"
@@ -133510,6 +133519,9 @@
     },
     "workday:micron:JR109154": {
       "seen_at": "2026-08-20T15:47:46+00:00"
+    },
+    "workday:micron:JR109155": {
+      "seen_at": "2026-08-21T05:09:36+00:00"
     },
     "workday:micron:JR109167": {
       "seen_at": "2026-08-17T20:28:27+00:00"
