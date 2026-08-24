@@ -142,13 +142,13 @@
       "consecutive_failures": 0,
       "warned_failures": false,
       "warned_zero": false,
-      "zero_since": "2026-08-24"
+      "zero_since": null
     },
     "github/SimplifyJobs/Summer2026-Internships": {
       "consecutive_failures": 0,
       "warned_failures": false,
       "warned_zero": false,
-      "zero_since": "2026-08-24"
+      "zero_since": null
     },
     "greenhouse/adyen": {
       "consecutive_failures": 0,
@@ -63320,6 +63320,9 @@
     "greenhouse:stripe:8141450": {
       "seen_at": "2026-08-19T14:34:59+00:00"
     },
+    "greenhouse:stripe:8141453": {
+      "seen_at": "2026-08-24T04:26:05+00:00"
+    },
     "greenhouse:stripe:8142302": {
       "seen_at": "2026-08-19T20:35:26+00:00"
     },
@@ -93551,6 +93554,9 @@
     "workday:citi:26969071": {
       "seen_at": "2026-07-16T20:10:28+00:00"
     },
+    "workday:citi:26969073": {
+      "seen_at": "2026-08-24T04:26:05+00:00"
+    },
     "workday:citi:26969082": {
       "seen_at": "2026-07-20T03:56:22+00:00"
     },
@@ -113389,6 +113395,9 @@
     },
     "workday:fiserv:R-10395393": {
       "seen_at": "2026-07-20T12:05:44+00:00"
+    },
+    "workday:fiserv:R-10395474": {
+      "seen_at": "2026-08-24T04:26:05+00:00"
     },
     "workday:fiserv:R-10395490": {
       "seen_at": "2026-07-16T20:24:36+00:00"
@@ -177337,6 +177346,12 @@
     },
     "workday:statestreet:R-796473": {
       "seen_at": "2026-08-24T04:04:07+00:00"
+    },
+    "workday:statestreet:R-796475": {
+      "seen_at": "2026-08-24T04:26:05+00:00"
+    },
+    "workday:statestreet:R-796476": {
+      "seen_at": "2026-08-24T04:26:05+00:00"
     },
     "workday:td:R_1384739": {
       "seen_at": "2026-07-08T16:14:43+00:00"
