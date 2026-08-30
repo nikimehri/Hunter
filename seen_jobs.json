@@ -148,7 +148,7 @@
       "consecutive_failures": 0,
       "warned_failures": false,
       "warned_zero": false,
-      "zero_since": "2026-08-30"
+      "zero_since": null
     },
     "greenhouse/adyen": {
       "consecutive_failures": 0,
@@ -162184,6 +162184,9 @@
     },
     "workday:nvidia:JR2023538": {
       "seen_at": "2026-08-26T09:09:59+00:00"
+    },
+    "workday:nvidia:JR2023539": {
+      "seen_at": "2026-08-30T22:36:46+00:00"
     },
     "workday:nvidia:JR2023540": {
       "seen_at": "2026-08-18T16:33:06+00:00"
