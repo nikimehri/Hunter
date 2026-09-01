@@ -142,13 +142,13 @@
       "consecutive_failures": 0,
       "warned_failures": false,
       "warned_zero": false,
-      "zero_since": "2026-09-01"
+      "zero_since": null
     },
     "github/SimplifyJobs/Summer2026-Internships": {
       "consecutive_failures": 0,
       "warned_failures": false,
       "warned_zero": false,
-      "zero_since": null
+      "zero_since": "2026-09-01"
     },
     "greenhouse/adyen": {
       "consecutive_failures": 0,
@@ -9389,6 +9389,9 @@
     "ashby:openai:aa06845f-df12-41e5-8fe8-dbb1f7cb01be": {
       "seen_at": "2026-07-05T22:02:14+00:00"
     },
+    "ashby:openai:aa55ee20-b904-44c1-8cc7-d9160fc8b341": {
+      "seen_at": "2026-09-01T22:11:04+00:00"
+    },
     "ashby:openai:ab2a6711-4a2f-46aa-9d1c-f9de243b8845": {
       "seen_at": "2026-07-10T20:39:29+00:00"
     },
@@ -10006,6 +10009,9 @@
     },
     "ashby:openai:d4780eac-03ad-4dae-861f-99af22b4287e": {
       "seen_at": "2026-07-05T22:02:14+00:00"
+    },
+    "ashby:openai:d4983a0f-1004-4f27-94b3-e1a38c168c1a": {
+      "seen_at": "2026-09-01T22:11:04+00:00"
     },
     "ashby:openai:d49e3abe-0d02-4b73-a5b2-cc7f1414c1e8": {
       "seen_at": "2026-08-19T20:28:17+00:00"
@@ -22187,6 +22193,9 @@
     "github:SimplifyJobs/New-Grad-Positions:4e5efc2d-9a6e-47ca-a99c-2528b7d343ec": {
       "seen_at": "2026-08-07T22:38:20+00:00"
     },
+    "github:SimplifyJobs/New-Grad-Positions:4e6c97fe-7d82-47d5-9da3-9682109eb5f3": {
+      "seen_at": "2026-09-01T22:11:04+00:00"
+    },
     "github:SimplifyJobs/New-Grad-Positions:4e70088d-93fa-4f90-9fb4-0a77fa7d17d4": {
       "seen_at": "2026-07-05T21:08:29+00:00"
     },
@@ -29698,6 +29707,9 @@
     },
     "github:SimplifyJobs/New-Grad-Positions:9a2ed92d-f480-422b-84a3-12f091445123": {
       "seen_at": "2026-08-12T22:40:38+00:00"
+    },
+    "github:SimplifyJobs/New-Grad-Positions:9a334ffd-3252-4f69-a5fc-d3e16083784e": {
+      "seen_at": "2026-09-01T22:11:04+00:00"
     },
     "github:SimplifyJobs/New-Grad-Positions:9a449f73-85ff-4955-a574-3adcf68ac71b": {
       "seen_at": "2026-07-24T22:40:32+00:00"
@@ -58273,6 +58285,9 @@
     },
     "greenhouse:anthropic:5357746008": {
       "seen_at": "2026-07-16T21:36:44+00:00"
+    },
+    "greenhouse:anthropic:5357943008": {
+      "seen_at": "2026-09-01T22:11:04+00:00"
     },
     "greenhouse:anthropic:5357947008": {
       "seen_at": "2026-08-07T15:24:48+00:00"
