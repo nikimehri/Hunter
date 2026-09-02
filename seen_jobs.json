@@ -142,13 +142,13 @@
       "consecutive_failures": 0,
       "warned_failures": false,
       "warned_zero": false,
-      "zero_since": "2026-09-01"
+      "zero_since": null
     },
     "github/SimplifyJobs/Summer2026-Internships": {
       "consecutive_failures": 0,
       "warned_failures": false,
       "warned_zero": false,
-      "zero_since": "2026-09-01"
+      "zero_since": null
     },
     "greenhouse/adyen": {
       "consecutive_failures": 0,
@@ -102632,6 +102632,9 @@
     "workday:cibc:2618096": {
       "seen_at": "2026-09-01T21:56:50+00:00"
     },
+    "workday:cibc:2618107": {
+      "seen_at": "2026-09-02T00:06:59+00:00"
+    },
     "workday:cibc:2618110": {
       "seen_at": "2026-09-01T22:04:00+00:00"
     },
@@ -121216,6 +121219,9 @@
     },
     "workday:citi:26992025": {
       "seen_at": "2026-09-01T23:59:53+00:00"
+    },
+    "workday:citi:26992027": {
+      "seen_at": "2026-09-02T00:06:59+00:00"
     },
     "workday:crowdstrike:R17816": {
       "seen_at": "2026-07-28T18:20:18+00:00"
@@ -163096,6 +163102,9 @@
     },
     "workday:nvidia:JR2006383": {
       "seen_at": "2026-07-08T16:14:43+00:00"
+    },
+    "workday:nvidia:JR2006561": {
+      "seen_at": "2026-09-02T00:06:59+00:00"
     },
     "workday:nvidia:JR2006647": {
       "seen_at": "2026-08-09T09:53:48+00:00"
