@@ -142,13 +142,13 @@
       "consecutive_failures": 0,
       "warned_failures": false,
       "warned_zero": false,
-      "zero_since": "2026-09-05"
+      "zero_since": null
     },
     "github/SimplifyJobs/Summer2026-Internships": {
       "consecutive_failures": 0,
       "warned_failures": false,
       "warned_zero": false,
-      "zero_since": "2026-09-05"
+      "zero_since": null
     },
     "greenhouse/adyen": {
       "consecutive_failures": 0,
@@ -8825,9 +8825,6 @@
     "ashby:openai:a80e213f-c592-4337-a410-e5bf94f4e40d": {
       "seen_at": "2026-08-14T01:07:59+00:00"
     },
-    "ashby:openai:a86d9477-0277-498c-9647-02a257747607": {
-      "seen_at": "2026-07-07T23:33:49+00:00"
-    },
     "ashby:openai:a886ff48-b8a1-4e28-b468-296713a5ad78": {
       "seen_at": "2026-09-03T22:11:55+00:00"
     },
@@ -16418,6 +16415,9 @@
     "github:SimplifyJobs/New-Grad-Positions:1fc337ad-2c1c-42c4-8bf0-d05bbfee9998": {
       "seen_at": "2026-09-04T10:55:39+00:00"
     },
+    "github:SimplifyJobs/New-Grad-Positions:1fc8df79-d47d-4ab3-a745-920d0f302bdc": {
+      "seen_at": "2026-09-06T00:38:49+00:00"
+    },
     "github:SimplifyJobs/New-Grad-Positions:1fd36a99-af5c-4628-9534-8bde1fd7faa3": {
       "seen_at": "2026-08-12T22:40:38+00:00"
     },
@@ -20000,6 +20000,9 @@
     "github:SimplifyJobs/New-Grad-Positions:47dffff6-031e-40c4-9ec5-87f8aa08f15e": {
       "seen_at": "2026-07-28T11:33:27+00:00"
     },
+    "github:SimplifyJobs/New-Grad-Positions:47e15701-8350-4806-9e72-912b4f89f705": {
+      "seen_at": "2026-09-06T00:38:49+00:00"
+    },
     "github:SimplifyJobs/New-Grad-Positions:47f143c4-cc55-4bd8-bbd7-34e02431fad7": {
       "seen_at": "2026-07-27T23:46:11+00:00"
     },
@@ -21274,6 +21277,9 @@
     },
     "github:SimplifyJobs/New-Grad-Positions:5578f27b-5b7f-4d4e-892f-d9a2667a2aa6": {
       "seen_at": "2026-09-03T22:04:53+00:00"
+    },
+    "github:SimplifyJobs/New-Grad-Positions:5597e15d-f9b1-4bb6-8045-dba8e3afa16d": {
+      "seen_at": "2026-09-06T00:38:49+00:00"
     },
     "github:SimplifyJobs/New-Grad-Positions:55995442-1a15-417c-831c-3d825179076e": {
       "seen_at": "2026-08-03T13:57:52+00:00"
@@ -23272,6 +23278,9 @@
     },
     "github:SimplifyJobs/New-Grad-Positions:6a8dcada-2bdc-47a8-95a6-ecde4e85662b": {
       "seen_at": "2026-09-01T16:32:43+00:00"
+    },
+    "github:SimplifyJobs/New-Grad-Positions:6a9378a8-2a47-4aa5-9d9b-5187d45c7f4d": {
+      "seen_at": "2026-09-06T00:38:49+00:00"
     },
     "github:SimplifyJobs/New-Grad-Positions:6ab593bb-5119-41d3-b37d-1135be139c79": {
       "seen_at": "2026-09-02T05:57:16+00:00"
@@ -25891,6 +25900,9 @@
     },
     "github:SimplifyJobs/New-Grad-Positions:89554157-ce6a-4bfe-b783-fb6582dacd3d": {
       "seen_at": "2026-08-04T23:05:47+00:00"
+    },
+    "github:SimplifyJobs/New-Grad-Positions:8964f345-d323-437b-a1c5-68c9dd9e1cd7": {
+      "seen_at": "2026-09-06T00:38:49+00:00"
     },
     "github:SimplifyJobs/New-Grad-Positions:896852cc-417e-4bba-ba7f-1e1cb726008d": {
       "seen_at": "2026-07-09T23:05:46+00:00"
@@ -41369,6 +41381,9 @@
     "github:SimplifyJobs/Summer2026-Internships:4b95d40c-afe4-4c27-af52-6e7cff541fa8": {
       "seen_at": "2026-07-21T10:52:20+00:00"
     },
+    "github:SimplifyJobs/Summer2026-Internships:4b968d7d-6734-4e0b-b21f-d1b8a7968640": {
+      "seen_at": "2026-09-06T00:38:49+00:00"
+    },
     "github:SimplifyJobs/Summer2026-Internships:4b982322-5cf7-44e2-bedc-ef603ee2bcd2": {
       "seen_at": "2026-09-03T14:05:20+00:00"
     },
@@ -51782,6 +51797,9 @@
     "github:SimplifyJobs/Summer2026-Internships:fe8fd0a0-0ded-47c1-8bba-8ac16fdd2926": {
       "seen_at": "2026-07-16T04:12:12+00:00"
     },
+    "github:SimplifyJobs/Summer2026-Internships:fe925a08-6009-425a-b112-6e80d0c715d0": {
+      "seen_at": "2026-09-06T00:38:49+00:00"
+    },
     "github:SimplifyJobs/Summer2026-Internships:fe93fbfa-cba0-4f3c-8f20-9cbc4828ef01": {
       "seen_at": "2026-08-05T09:34:16+00:00"
     },
@@ -57524,9 +57542,6 @@
     "greenhouse:chime:8612045002": {
       "seen_at": "2026-08-11T21:30:20+00:00"
     },
-    "greenhouse:chime:8614188002": {
-      "seen_at": "2026-07-07T23:33:48+00:00"
-    },
     "greenhouse:chime:8616359002": {
       "seen_at": "2026-07-10T17:01:02+00:00"
     },
@@ -58624,9 +58639,6 @@
     },
     "greenhouse:databricks:7872746002": {
       "seen_at": "2026-09-03T22:11:55+00:00"
-    },
-    "greenhouse:databricks:7882009002": {
-      "seen_at": "2026-07-07T23:58:43+00:00"
     },
     "greenhouse:databricks:7896350002": {
       "seen_at": "2026-09-03T22:11:55+00:00"
@@ -60226,9 +60238,6 @@
     },
     "greenhouse:databricks:8612863002": {
       "seen_at": "2026-09-04T23:42:33+00:00"
-    },
-    "greenhouse:databricks:8612870002": {
-      "seen_at": "2026-07-07T23:58:43+00:00"
     },
     "greenhouse:databricks:8612964002": {
       "seen_at": "2026-09-03T22:11:55+00:00"
@@ -62285,9 +62294,6 @@
     "greenhouse:robinhood:8048650": {
       "seen_at": "2026-07-08T19:49:36+00:00"
     },
-    "greenhouse:robinhood:8049662": {
-      "seen_at": "2026-07-07T23:33:47+00:00"
-    },
     "greenhouse:robinhood:8049685": {
       "seen_at": "2026-07-08T15:29:23+00:00"
     },
@@ -62959,9 +62965,6 @@
     },
     "greenhouse:stripe:7737237": {
       "seen_at": "2026-09-03T22:04:53+00:00"
-    },
-    "greenhouse:stripe:7737243": {
-      "seen_at": "2026-07-07T23:58:43+00:00"
     },
     "greenhouse:stripe:7737248": {
       "seen_at": "2026-09-01T12:35:30+00:00"
