@@ -142,13 +142,13 @@
       "consecutive_failures": 0,
       "warned_failures": false,
       "warned_zero": false,
-      "zero_since": null
+      "zero_since": "2026-09-07"
     },
     "github/SimplifyJobs/Summer2026-Internships": {
       "consecutive_failures": 0,
       "warned_failures": false,
       "warned_zero": false,
-      "zero_since": null
+      "zero_since": "2026-09-07"
     },
     "greenhouse/adyen": {
       "consecutive_failures": 0,
@@ -6632,6 +6632,9 @@
     "ashby:openai:6c21e5e0-a41c-4936-a278-dd7d2c88f25c": {
       "seen_at": "2026-08-28T04:30:54+00:00"
     },
+    "ashby:openai:6c552323-f0bd-4756-a5fb-db2cda70173f": {
+      "seen_at": "2026-09-07T22:21:33+00:00"
+    },
     "ashby:openai:6c6c1ace-12d6-48f0-88f0-488ff8521571": {
       "seen_at": "2026-09-03T22:11:55+00:00"
     },
@@ -7532,9 +7535,6 @@
     "ashby:openai:be7b1bf5-37ab-40f7-9ec1-e9732244f12a": {
       "seen_at": "2026-09-03T22:11:55+00:00"
     },
-    "ashby:openai:beb5c38e-1ff3-4b9b-87c7-b2965e77d7a5": {
-      "seen_at": "2026-07-09T22:14:42+00:00"
-    },
     "ashby:openai:bed15207-f4bc-4a51-ae13-de017ddf3cba": {
       "seen_at": "2026-08-07T03:27:49+00:00"
     },
@@ -7934,9 +7934,6 @@
     "ashby:openai:df8a1d73-58b9-4571-86f5-da9a12155fbb": {
       "seen_at": "2026-09-03T22:11:55+00:00"
     },
-    "ashby:openai:dfbe3bfa-5d57-44ed-a95e-a07b56663c9d": {
-      "seen_at": "2026-07-09T22:14:42+00:00"
-    },
     "ashby:openai:e14fc37c-7ae5-4a6b-ba0d-a36860cf9bb2": {
       "seen_at": "2026-09-03T22:11:55+00:00"
     },
@@ -7948,9 +7945,6 @@
     },
     "ashby:openai:e1daa4e0-c42a-45a7-b9ee-559b35bfe08a": {
       "seen_at": "2026-09-03T22:11:55+00:00"
-    },
-    "ashby:openai:e2573748-58f4-4a25-9094-58bc617b57c3": {
-      "seen_at": "2026-07-09T22:14:42+00:00"
     },
     "ashby:openai:e25e56a3-88f0-4994-9ae7-3d6d85c1501b": {
       "seen_at": "2026-09-01T16:32:43+00:00"
@@ -51770,6 +51764,9 @@
     "greenhouse:anthropic:5305631008": {
       "seen_at": "2026-09-06T19:41:41+00:00"
     },
+    "greenhouse:anthropic:5309805008": {
+      "seen_at": "2026-09-07T22:21:33+00:00"
+    },
     "greenhouse:anthropic:5309917008": {
       "seen_at": "2026-09-07T16:12:46+00:00"
     },
@@ -53273,6 +53270,9 @@
     "greenhouse:block:5318292008": {
       "seen_at": "2026-07-21T00:09:37+00:00"
     },
+    "greenhouse:block:5318418008": {
+      "seen_at": "2026-09-07T22:21:33+00:00"
+    },
     "greenhouse:block:5318944008": {
       "seen_at": "2026-07-20T16:09:45+00:00"
     },
@@ -54166,6 +54166,12 @@
     },
     "greenhouse:brex:8627262002": {
       "seen_at": "2026-09-07T22:14:41+00:00"
+    },
+    "greenhouse:brex:8627269002": {
+      "seen_at": "2026-09-07T22:21:33+00:00"
+    },
+    "greenhouse:brex:8627283002": {
+      "seen_at": "2026-09-07T22:21:33+00:00"
     },
     "greenhouse:brex:8627514002": {
       "seen_at": "2026-07-09T23:05:46+00:00"
@@ -58499,6 +58505,12 @@
     "greenhouse:duolingo:8576434002": {
       "seen_at": "2026-09-03T22:04:53+00:00"
     },
+    "greenhouse:duolingo:8583977002": {
+      "seen_at": "2026-09-07T22:21:33+00:00"
+    },
+    "greenhouse:duolingo:8584012002": {
+      "seen_at": "2026-09-07T22:21:33+00:00"
+    },
     "greenhouse:duolingo:8584465002": {
       "seen_at": "2026-09-03T22:04:53+00:00"
     },
@@ -59926,6 +59938,9 @@
     },
     "greenhouse:stripe:7507904": {
       "seen_at": "2026-09-03T22:04:53+00:00"
+    },
+    "greenhouse:stripe:7517535": {
+      "seen_at": "2026-09-07T22:21:33+00:00"
     },
     "greenhouse:stripe:7520686": {
       "seen_at": "2026-09-03T22:04:53+00:00"
@@ -81214,9 +81229,6 @@
     },
     "workday:capitalone:R246308": {
       "seen_at": "2026-07-16T18:00:41+00:00"
-    },
-    "workday:capitalone:R246309": {
-      "seen_at": "2026-07-09T22:14:42+00:00"
     },
     "workday:capitalone:R246312": {
       "seen_at": "2026-07-13T18:54:46+00:00"
@@ -113390,9 +113402,6 @@
     "workday:ebay:R0073718": {
       "seen_at": "2026-07-27T14:14:20+00:00"
     },
-    "workday:ebay:R0073764": {
-      "seen_at": "2026-07-09T22:14:42+00:00"
-    },
     "workday:ebay:R0073776": {
       "seen_at": "2026-09-03T23:42:33+00:00"
     },
@@ -121384,6 +121393,9 @@
     },
     "workday:fmr:2131531": {
       "seen_at": "2026-07-17T19:49:03+00:00"
+    },
+    "workday:fmr:2131575": {
+      "seen_at": "2026-09-07T22:21:33+00:00"
     },
     "workday:fmr:2131590": {
       "seen_at": "2026-07-20T14:29:20+00:00"
@@ -134383,6 +134395,9 @@
     },
     "workday:interac:REQ-2248": {
       "seen_at": "2026-09-06T17:48:10+00:00"
+    },
+    "workday:interac:REQ-2250": {
+      "seen_at": "2026-09-07T22:21:33+00:00"
     },
     "workday:interac:REQ-2253": {
       "seen_at": "2026-08-14T14:30:48+00:00"
@@ -188273,9 +188288,6 @@
     "workday:statestreet:R-793836": {
       "seen_at": "2026-07-10T15:04:54+00:00"
     },
-    "workday:statestreet:R-793853": {
-      "seen_at": "2026-07-09T22:14:42+00:00"
-    },
     "workday:statestreet:R-793866": {
       "seen_at": "2026-07-15T18:35:51+00:00"
     },
@@ -210049,6 +210061,9 @@
     },
     "workday:zoom:R19355": {
       "seen_at": "2026-07-13T17:26:32+00:00"
+    },
+    "workday:zoom:R19356": {
+      "seen_at": "2026-09-07T22:21:33+00:00"
     },
     "workday:zoom:R19365": {
       "seen_at": "2026-07-13T10:26:31+00:00"
