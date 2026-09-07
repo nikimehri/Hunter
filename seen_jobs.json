@@ -142,7 +142,7 @@
       "consecutive_failures": 0,
       "warned_failures": false,
       "warned_zero": false,
-      "zero_since": "2026-09-07"
+      "zero_since": null
     },
     "github/SimplifyJobs/Summer2026-Internships": {
       "consecutive_failures": 0,
@@ -8200,6 +8200,9 @@
     },
     "ashby:openai:f873dd71-46c9-4be1-8580-bc67c56b4cad": {
       "seen_at": "2026-09-03T22:11:55+00:00"
+    },
+    "ashby:openai:f8b84ae5-743b-41c9-8432-02dff9993d6b": {
+      "seen_at": "2026-09-07T22:35:14+00:00"
     },
     "ashby:openai:f8ca42f5-97c7-40d3-83e6-b92f55cbcc27": {
       "seen_at": "2026-08-19T14:17:52+00:00"
@@ -18664,6 +18667,9 @@
     },
     "github:SimplifyJobs/New-Grad-Positions:5466ce88-7ac4-4a48-ba95-8d9ec9c4d85a": {
       "seen_at": "2026-08-07T10:07:27+00:00"
+    },
+    "github:SimplifyJobs/New-Grad-Positions:546aa69f-fd70-44f1-9221-ac3ce42fe8fb": {
+      "seen_at": "2026-09-07T22:35:14+00:00"
     },
     "github:SimplifyJobs/New-Grad-Positions:54709709-e38f-49b4-bcd9-5141b73a679e": {
       "seen_at": "2026-08-24T20:38:54+00:00"
@@ -78344,9 +78350,6 @@
     "workday:broadcom:R026426": {
       "seen_at": "2026-07-13T17:40:40+00:00"
     },
-    "workday:broadcom:R026428": {
-      "seen_at": "2026-07-09T22:28:35+00:00"
-    },
     "workday:broadcom:R026429": {
       "seen_at": "2026-07-17T16:00:03+00:00"
     },
@@ -78373,9 +78376,6 @@
     },
     "workday:broadcom:R026468": {
       "seen_at": "2026-07-28T06:44:51+00:00"
-    },
-    "workday:broadcom:R026469": {
-      "seen_at": "2026-07-09T22:28:35+00:00"
     },
     "workday:broadcom:R026471": {
       "seen_at": "2026-07-09T22:37:54+00:00"
@@ -93572,9 +93572,6 @@
     "workday:citi:26961541": {
       "seen_at": "2026-08-13T18:42:03+00:00"
     },
-    "workday:citi:26961560": {
-      "seen_at": "2026-07-09T22:28:35+00:00"
-    },
     "workday:citi:26961703": {
       "seen_at": "2026-09-07T15:58:26+00:00"
     },
@@ -98629,9 +98626,6 @@
     },
     "workday:citi:26978487": {
       "seen_at": "2026-07-15T03:20:56+00:00"
-    },
-    "workday:citi:26978490": {
-      "seen_at": "2026-07-09T22:28:35+00:00"
     },
     "workday:citi:26978492": {
       "seen_at": "2026-07-13T15:35:14+00:00"
@@ -110476,6 +110470,9 @@
     },
     "workday:citi:26991250": {
       "seen_at": "2026-09-07T16:05:36+00:00"
+    },
+    "workday:citi:26991253": {
+      "seen_at": "2026-09-07T22:35:14+00:00"
     },
     "workday:citi:26991262": {
       "seen_at": "2026-09-03T13:50:34+00:00"
@@ -123676,6 +123673,9 @@
     },
     "workday:hp:3160029": {
       "seen_at": "2026-09-01T01:50:01+00:00"
+    },
+    "workday:hp:3160064": {
+      "seen_at": "2026-09-07T22:35:14+00:00"
     },
     "workday:hp:3160129": {
       "seen_at": "2026-08-06T09:14:19+00:00"
@@ -153383,9 +153383,6 @@
     "workday:nvidia:JR2014177": {
       "seen_at": "2026-08-04T07:11:08+00:00"
     },
-    "workday:nvidia:JR2014178": {
-      "seen_at": "2026-07-09T22:28:35+00:00"
-    },
     "workday:nvidia:JR2014195": {
       "seen_at": "2026-07-29T18:00:18+00:00"
     },
@@ -155027,9 +155024,6 @@
     "workday:nvidia:JR2020327": {
       "seen_at": "2026-07-22T19:49:49+00:00"
     },
-    "workday:nvidia:JR2020330": {
-      "seen_at": "2026-07-09T22:28:35+00:00"
-    },
     "workday:nvidia:JR2020340": {
       "seen_at": "2026-07-14T21:06:43+00:00"
     },
@@ -155117,9 +155111,6 @@
     "workday:nvidia:JR2020544": {
       "seen_at": "2026-07-29T09:51:22+00:00"
     },
-    "workday:nvidia:JR2020545": {
-      "seen_at": "2026-07-09T22:28:35+00:00"
-    },
     "workday:nvidia:JR2020550": {
       "seen_at": "2026-07-24T19:07:56+00:00"
     },
@@ -155194,9 +155185,6 @@
     },
     "workday:nvidia:JR2020665": {
       "seen_at": "2026-08-24T19:27:44+00:00"
-    },
-    "workday:nvidia:JR2020666": {
-      "seen_at": "2026-07-09T22:28:35+00:00"
     },
     "workday:nvidia:JR2020678": {
       "seen_at": "2026-07-17T08:18:14+00:00"
@@ -163435,6 +163423,9 @@
     },
     "workday:paloaltonetworks:JR-022236": {
       "seen_at": "2026-09-07T15:58:26+00:00"
+    },
+    "workday:paloaltonetworks:JR-022244": {
+      "seen_at": "2026-09-07T22:35:14+00:00"
     },
     "workday:paypal:R0128326": {
       "seen_at": "2026-08-27T20:46:32+00:00"
@@ -194056,9 +194047,6 @@
     },
     "workday:td:R_1490318": {
       "seen_at": "2026-08-03T19:51:23+00:00"
-    },
-    "workday:td:R_1490353": {
-      "seen_at": "2026-07-09T22:28:35+00:00"
     },
     "workday:td:R_1490377": {
       "seen_at": "2026-09-02T18:05:50+00:00"
