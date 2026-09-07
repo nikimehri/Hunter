@@ -148,7 +148,7 @@
       "consecutive_failures": 0,
       "warned_failures": false,
       "warned_zero": false,
-      "zero_since": "2026-09-07"
+      "zero_since": null
     },
     "greenhouse/adyen": {
       "consecutive_failures": 0,
@@ -69562,6 +69562,9 @@
     },
     "workday:blackrock:R265888": {
       "seen_at": "2026-09-07T05:27:21+00:00"
+    },
+    "workday:blackrock:R265889": {
+      "seen_at": "2026-09-07T05:34:22+00:00"
     },
     "workday:blackrock:R265890": {
       "seen_at": "2026-08-05T15:29:52+00:00"
