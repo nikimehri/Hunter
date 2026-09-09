@@ -148,7 +148,7 @@
       "consecutive_failures": 0,
       "warned_failures": false,
       "warned_zero": false,
-      "zero_since": null
+      "zero_since": "2026-09-09"
     },
     "greenhouse/adyen": {
       "consecutive_failures": 0,
@@ -108434,6 +108434,9 @@
     "workday:citi:26987121": {
       "seen_at": "2026-09-04T06:17:02+00:00"
     },
+    "workday:citi:26987122": {
+      "seen_at": "2026-09-09T22:09:17+00:00"
+    },
     "workday:citi:26987128": {
       "seen_at": "2026-08-20T16:19:32+00:00"
     },
@@ -111658,6 +111661,9 @@
     },
     "workday:citi:26991143": {
       "seen_at": "2026-09-01T16:32:43+00:00"
+    },
+    "workday:citi:26991146": {
+      "seen_at": "2026-09-09T22:09:17+00:00"
     },
     "workday:citi:26991156": {
       "seen_at": "2026-09-01T21:56:50+00:00"
@@ -166208,6 +166214,9 @@
     "workday:paypal:R0136302": {
       "seen_at": "2026-07-14T14:10:56+00:00"
     },
+    "workday:paypal:R0136383": {
+      "seen_at": "2026-09-09T22:09:17+00:00"
+    },
     "workday:paypal:R0136403": {
       "seen_at": "2026-08-07T20:08:25+00:00"
     },
@@ -183728,6 +183737,9 @@
     "workday:salesforce:JR359342": {
       "seen_at": "2026-09-08T17:27:09+00:00"
     },
+    "workday:salesforce:JR359348": {
+      "seen_at": "2026-09-09T22:09:17+00:00"
+    },
     "workday:salesforce:JR359357": {
       "seen_at": "2026-09-08T09:13:34+00:00"
     },
@@ -187744,9 +187756,6 @@
     },
     "workday:spgi:330108": {
       "seen_at": "2026-07-12T18:32:30+00:00"
-    },
-    "workday:spgi:330118": {
-      "seen_at": "2026-07-11T22:09:10+00:00"
     },
     "workday:spgi:330122": {
       "seen_at": "2026-08-16T16:05:32+00:00"
