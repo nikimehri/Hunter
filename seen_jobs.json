@@ -148,7 +148,7 @@
       "consecutive_failures": 0,
       "warned_failures": false,
       "warned_zero": false,
-      "zero_since": null
+      "zero_since": "2026-09-10"
     },
     "greenhouse/adyen": {
       "consecutive_failures": 0,
@@ -168446,6 +168446,9 @@
     "workday:paypal:R0137383": {
       "seen_at": "2026-09-03T05:04:40+00:00"
     },
+    "workday:paypal:R0137384": {
+      "seen_at": "2026-09-10T12:11:42+00:00"
+    },
     "workday:paypal:R0137388": {
       "seen_at": "2026-09-03T05:04:40+00:00"
     },
@@ -168487,6 +168490,9 @@
     },
     "workday:paypal:R0137443": {
       "seen_at": "2026-09-10T11:42:47+00:00"
+    },
+    "workday:paypal:R0137449": {
+      "seen_at": "2026-09-10T12:11:42+00:00"
     },
     "workday:paypal:R0137455": {
       "seen_at": "2026-09-03T05:04:40+00:00"
@@ -208420,6 +208426,9 @@
     },
     "workday:td:R_1510237": {
       "seen_at": "2026-09-10T06:31:07+00:00"
+    },
+    "workday:td:R_1510247": {
+      "seen_at": "2026-09-10T12:11:42+00:00"
     },
     "workday:tsys:R0062295": {
       "seen_at": "2026-09-03T09:41:03+00:00"
