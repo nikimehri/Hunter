@@ -148,7 +148,7 @@
       "consecutive_failures": 0,
       "warned_failures": false,
       "warned_zero": false,
-      "zero_since": null
+      "zero_since": "2026-09-10"
     },
     "greenhouse/adyen": {
       "consecutive_failures": 0,
@@ -10597,6 +10597,9 @@
     },
     "ashby:temporal:cdabd368-1989-4ea8-801d-2be138c16523": {
       "seen_at": "2026-09-03T17:19:32+00:00"
+    },
+    "ashby:temporal:ce519860-6e31-49c2-a4b4-f6e9a92c3f4b": {
+      "seen_at": "2026-09-10T01:47:14+00:00"
     },
     "ashby:temporal:ceb3ae3d-3a72-4067-b13d-44350a143195": {
       "seen_at": "2026-07-16T19:06:43+00:00"
@@ -99521,6 +99524,9 @@
     "workday:citi:26977405": {
       "seen_at": "2026-07-15T18:43:20+00:00"
     },
+    "workday:citi:26977412": {
+      "seen_at": "2026-09-10T01:47:14+00:00"
+    },
     "workday:citi:26977425": {
       "seen_at": "2026-07-31T20:23:57+00:00"
     },
@@ -113848,6 +113854,9 @@
     },
     "workday:citi:26994144": {
       "seen_at": "2026-09-09T23:59:46+00:00"
+    },
+    "workday:citi:26994151": {
+      "seen_at": "2026-09-10T01:47:14+00:00"
     },
     "workday:crowdstrike:R17816": {
       "seen_at": "2026-07-28T18:20:18+00:00"
