@@ -148,7 +148,7 @@
       "consecutive_failures": 0,
       "warned_failures": false,
       "warned_zero": false,
-      "zero_since": null
+      "zero_since": "2026-09-11"
     },
     "greenhouse/adyen": {
       "consecutive_failures": 0,
@@ -11374,6 +11374,9 @@
     },
     "ashby:wealthsimple:dcf383ab-79d2-4ad6-a91f-9b58ef72ee6c": {
       "seen_at": "2026-08-13T17:52:14+00:00"
+    },
+    "ashby:wealthsimple:ddfe3d1c-1b44-476d-a338-0e2048599583": {
+      "seen_at": "2026-09-11T14:19:45+00:00"
     },
     "ashby:wealthsimple:de09418a-8a12-46aa-a371-34bafaf5be26": {
       "seen_at": "2026-08-31T19:07:49+00:00"
@@ -83381,6 +83384,9 @@
     "workday:capitalone:R1000466": {
       "seen_at": "2026-09-11T13:50:08+00:00"
     },
+    "workday:capitalone:R1000483": {
+      "seen_at": "2026-09-11T14:19:45+00:00"
+    },
     "workday:capitalone:R210103": {
       "seen_at": "2026-09-10T18:24:29+00:00"
     },
@@ -101440,6 +101446,9 @@
     },
     "workday:citi:26977681": {
       "seen_at": "2026-08-07T00:29:49+00:00"
+    },
+    "workday:citi:26977703": {
+      "seen_at": "2026-09-11T14:19:45+00:00"
     },
     "workday:citi:26977724": {
       "seen_at": "2026-07-13T15:20:50+00:00"
@@ -128660,6 +128669,9 @@
     "workday:fmr:2135043": {
       "seen_at": "2026-09-08T17:27:09+00:00"
     },
+    "workday:fmr:2135050": {
+      "seen_at": "2026-09-11T14:19:45+00:00"
+    },
     "workday:fmr:2135056": {
       "seen_at": "2026-09-10T18:24:29+00:00"
     },
@@ -146026,6 +146038,9 @@
     },
     "workday:mastercard:R-290074": {
       "seen_at": "2026-09-02T22:43:53+00:00"
+    },
+    "workday:mastercard:R-290077": {
+      "seen_at": "2026-09-11T14:19:45+00:00"
     },
     "workday:mastercard:R-290086": {
       "seen_at": "2026-09-09T09:17:19+00:00"
@@ -170678,6 +170693,12 @@
     "workday:paypal:R0137342": {
       "seen_at": "2026-09-03T05:04:40+00:00"
     },
+    "workday:paypal:R0137343": {
+      "seen_at": "2026-09-11T14:19:45+00:00"
+    },
+    "workday:paypal:R0137344": {
+      "seen_at": "2026-09-11T14:19:45+00:00"
+    },
     "workday:paypal:R0137345": {
       "seen_at": "2026-09-03T17:19:32+00:00"
     },
@@ -190352,6 +190373,9 @@
     "workday:sec:R120354": {
       "seen_at": "2026-09-09T00:23:05+00:00"
     },
+    "workday:sec:R120361": {
+      "seen_at": "2026-09-11T14:19:45+00:00"
+    },
     "workday:sec:R120363": {
       "seen_at": "2026-09-03T22:25:53+00:00"
     },
@@ -191410,6 +191434,9 @@
     },
     "workday:spgi:328391": {
       "seen_at": "2026-08-27T20:46:32+00:00"
+    },
+    "workday:spgi:328396": {
+      "seen_at": "2026-09-11T14:19:45+00:00"
     },
     "workday:spgi:328405": {
       "seen_at": "2026-08-25T12:25:42+00:00"
