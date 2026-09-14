@@ -148,7 +148,7 @@
       "consecutive_failures": 0,
       "warned_failures": false,
       "warned_zero": false,
-      "zero_since": null
+      "zero_since": "2026-09-14"
     },
     "greenhouse/adyen": {
       "consecutive_failures": 0,
@@ -63386,6 +63386,9 @@
     "greenhouse:stripe:8044924": {
       "seen_at": "2026-09-11T10:07:43+00:00"
     },
+    "greenhouse:stripe:8045862": {
+      "seen_at": "2026-09-14T06:48:06+00:00"
+    },
     "greenhouse:stripe:8047395": {
       "seen_at": "2026-09-05T17:56:04+00:00"
     },
@@ -66697,9 +66700,6 @@
     },
     "workday:analogdevices:R263006": {
       "seen_at": "2026-07-23T12:56:21+00:00"
-    },
-    "workday:analogdevices:R263020": {
-      "seen_at": "2026-07-16T06:45:19+00:00"
     },
     "workday:analogdevices:R263022": {
       "seen_at": "2026-07-29T09:51:22+00:00"
@@ -93188,9 +93188,6 @@
     "workday:citi:26938001": {
       "seen_at": "2026-07-30T14:36:49+00:00"
     },
-    "workday:citi:26938240": {
-      "seen_at": "2026-07-16T06:45:19+00:00"
-    },
     "workday:citi:26938590": {
       "seen_at": "2026-07-30T03:24:50+00:00"
     },
@@ -94114,9 +94111,6 @@
     },
     "workday:citi:26958732": {
       "seen_at": "2026-08-27T10:39:44+00:00"
-    },
-    "workday:citi:26958744": {
-      "seen_at": "2026-07-16T06:45:19+00:00"
     },
     "workday:citi:26958748": {
       "seen_at": "2026-07-20T16:09:45+00:00"
@@ -146615,9 +146609,6 @@
     "workday:micron:JR98385": {
       "seen_at": "2026-08-25T07:25:19+00:00"
     },
-    "workday:micron:JR98395": {
-      "seen_at": "2026-07-16T06:45:19+00:00"
-    },
     "workday:micron:JR98418": {
       "seen_at": "2026-07-30T10:52:25+00:00"
     },
@@ -152980,6 +152971,9 @@
     },
     "workday:nvidia:JR2015188": {
       "seen_at": "2026-07-17T18:04:19+00:00"
+    },
+    "workday:nvidia:JR2015229": {
+      "seen_at": "2026-09-14T06:48:06+00:00"
     },
     "workday:nvidia:JR2015234": {
       "seen_at": "2026-07-16T20:10:28+00:00"
