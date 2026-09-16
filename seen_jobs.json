@@ -148,7 +148,7 @@
       "consecutive_failures": 0,
       "warned_failures": false,
       "warned_zero": false,
-      "zero_since": null
+      "zero_since": "2026-09-16"
     },
     "greenhouse/adyen": {
       "consecutive_failures": 0,
@@ -112640,6 +112640,9 @@
     "workday:citi:26993025": {
       "seen_at": "2026-09-14T18:35:15+00:00"
     },
+    "workday:citi:26993031": {
+      "seen_at": "2026-09-16T07:10:56+00:00"
+    },
     "workday:citi:26993033": {
       "seen_at": "2026-09-04T20:09:56+00:00"
     },
@@ -153644,6 +153647,9 @@
     "workday:ms:PT-JR043708": {
       "seen_at": "2026-09-14T06:27:28+00:00"
     },
+    "workday:ms:PT-JR043739": {
+      "seen_at": "2026-09-16T07:10:56+00:00"
+    },
     "workday:ms:PT-JR043808": {
       "seen_at": "2026-09-15T14:30:00+00:00"
     },
@@ -154126,6 +154132,9 @@
     },
     "workday:nasdaq:R0026830": {
       "seen_at": "2026-09-10T21:00:43+00:00"
+    },
+    "workday:nasdaq:R0026836": {
+      "seen_at": "2026-09-16T07:10:56+00:00"
     },
     "workday:nasdaq:R0026838": {
       "seen_at": "2026-09-11T13:50:08+00:00"
@@ -193225,6 +193234,12 @@
     },
     "workday:statestreet:R-797847": {
       "seen_at": "2026-09-15T09:43:49+00:00"
+    },
+    "workday:statestreet:R-797848": {
+      "seen_at": "2026-09-16T07:10:56+00:00"
+    },
+    "workday:statestreet:R-797849": {
+      "seen_at": "2026-09-16T07:10:56+00:00"
     },
     "workday:statestreet:R-797850": {
       "seen_at": "2026-09-15T05:19:10+00:00"
