@@ -142,13 +142,13 @@
       "consecutive_failures": 0,
       "warned_failures": false,
       "warned_zero": false,
-      "zero_since": null
+      "zero_since": "2026-09-28"
     },
     "github/SimplifyJobs/Summer2026-Internships": {
       "consecutive_failures": 0,
       "warned_failures": false,
       "warned_zero": false,
-      "zero_since": null
+      "zero_since": "2026-09-28"
     },
     "greenhouse/adyen": {
       "consecutive_failures": 0,
@@ -4700,6 +4700,9 @@
     "ashby:lambda:5a093b1b-11da-4f6d-8c04-89e6b02c5ddd": {
       "seen_at": "2026-09-01T19:31:19+00:00"
     },
+    "ashby:lambda:5ac9889b-de69-4463-ac68-e1736f469966": {
+      "seen_at": "2026-09-28T00:28:25+00:00"
+    },
     "ashby:lambda:5e962d3b-7d7d-43f8-a784-8ac2bfb2d0d4": {
       "seen_at": "2026-09-01T16:32:43+00:00"
     },
@@ -5680,6 +5683,9 @@
     },
     "ashby:openai:08c536fc-1d2a-4ca3-99dd-6f6030286b0c": {
       "seen_at": "2026-09-03T22:11:55+00:00"
+    },
+    "ashby:openai:08e8d03a-df94-46af-8664-cd9aab1af445": {
+      "seen_at": "2026-09-28T00:28:25+00:00"
     },
     "ashby:openai:0916f210-e851-493c-b8ec-51cf00152be1": {
       "seen_at": "2026-09-16T12:03:33+00:00"
@@ -91129,9 +91135,6 @@
     },
     "workday:cibc:2615737": {
       "seen_at": "2026-07-30T19:03:11+00:00"
-    },
-    "workday:cibc:2615738": {
-      "seen_at": "2026-07-30T00:26:48+00:00"
     },
     "workday:cibc:2615744": {
       "seen_at": "2026-08-05T15:52:05+00:00"
