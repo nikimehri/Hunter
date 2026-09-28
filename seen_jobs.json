@@ -148,7 +148,7 @@
       "consecutive_failures": 0,
       "warned_failures": false,
       "warned_zero": false,
-      "zero_since": null
+      "zero_since": "2026-09-28"
     },
     "greenhouse/adyen": {
       "consecutive_failures": 0,
@@ -6550,9 +6550,6 @@
     },
     "ashby:openai:52c72cb9-7c44-4cba-b440-e05262a38491": {
       "seen_at": "2026-09-03T22:11:55+00:00"
-    },
-    "ashby:openai:52f0ec3e-8ccc-4e37-b27b-74948e0e414e": {
-      "seen_at": "2026-07-30T00:41:46+00:00"
     },
     "ashby:openai:533c0fc9-b773-476d-9f96-a0528efbab0e": {
       "seen_at": "2026-09-03T22:11:55+00:00"
@@ -63827,9 +63824,6 @@
     "greenhouse:robinhood:7489697": {
       "seen_at": "2026-08-25T16:21:42+00:00"
     },
-    "greenhouse:robinhood:7489707": {
-      "seen_at": "2026-07-30T00:41:46+00:00"
-    },
     "greenhouse:robinhood:7489950": {
       "seen_at": "2026-09-03T22:11:55+00:00"
     },
@@ -64861,6 +64855,9 @@
     },
     "greenhouse:stripe:7789539": {
       "seen_at": "2026-09-03T22:04:53+00:00"
+    },
+    "greenhouse:stripe:7793636": {
+      "seen_at": "2026-09-28T00:42:32+00:00"
     },
     "greenhouse:stripe:7805386": {
       "seen_at": "2026-09-03T22:04:53+00:00"
