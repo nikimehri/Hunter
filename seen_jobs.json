@@ -142,13 +142,13 @@
       "consecutive_failures": 0,
       "warned_failures": false,
       "warned_zero": false,
-      "zero_since": null
+      "zero_since": "2026-09-29"
     },
     "github/SimplifyJobs/Summer2026-Internships": {
       "consecutive_failures": 0,
       "warned_failures": false,
       "warned_zero": false,
-      "zero_since": null
+      "zero_since": "2026-09-29"
     },
     "greenhouse/adyen": {
       "consecutive_failures": 0,
@@ -54218,6 +54218,9 @@
     "greenhouse:affirm:7997218003": {
       "seen_at": "2026-09-21T18:40:03+00:00"
     },
+    "greenhouse:affirm:7999344003": {
+      "seen_at": "2026-09-29T20:43:34+00:00"
+    },
     "greenhouse:affirm:7999793003": {
       "seen_at": "2026-09-23T19:55:21+00:00"
     },
@@ -58153,6 +58156,15 @@
     },
     "greenhouse:brex:8659812002": {
       "seen_at": "2026-09-28T23:50:56+00:00"
+    },
+    "greenhouse:brex:8662157002": {
+      "seen_at": "2026-09-29T20:43:34+00:00"
+    },
+    "greenhouse:brex:8662161002": {
+      "seen_at": "2026-09-29T20:43:34+00:00"
+    },
+    "greenhouse:brex:8662162002": {
+      "seen_at": "2026-09-29T20:43:34+00:00"
     },
     "greenhouse:brex:8672976002": {
       "seen_at": "2026-08-03T19:51:23+00:00"
@@ -81164,6 +81176,9 @@
     "workday:bmo:R260027864": {
       "seen_at": "2026-09-28T23:43:55+00:00"
     },
+    "workday:bmo:R260027876": {
+      "seen_at": "2026-09-29T20:43:32+00:00"
+    },
     "workday:bmo:R260027888": {
       "seen_at": "2026-09-28T23:43:55+00:00"
     },
@@ -82357,9 +82372,6 @@
     },
     "workday:cadence:R55721": {
       "seen_at": "2026-09-25T22:32:18+00:00"
-    },
-    "workday:cadence:R55736": {
-      "seen_at": "2026-07-31T20:38:15+00:00"
     },
     "workday:cadence:R55738": {
       "seen_at": "2026-09-03T23:42:33+00:00"
@@ -85612,6 +85624,9 @@
     },
     "workday:capitalone:R1002514": {
       "seen_at": "2026-09-29T20:14:22+00:00"
+    },
+    "workday:capitalone:R1002531": {
+      "seen_at": "2026-09-29T20:43:34+00:00"
     },
     "workday:capitalone:R1002547": {
       "seen_at": "2026-09-29T20:14:22+00:00"
@@ -91133,9 +91148,6 @@
     "workday:cibc:2615980": {
       "seen_at": "2026-08-11T16:44:14+00:00"
     },
-    "workday:cibc:2615983": {
-      "seen_at": "2026-07-31T20:38:15+00:00"
-    },
     "workday:cibc:2615984": {
       "seen_at": "2026-08-07T00:29:49+00:00"
     },
@@ -96352,6 +96364,9 @@
     },
     "workday:citi:26968859": {
       "seen_at": "2026-09-22T15:04:48+00:00"
+    },
+    "workday:citi:26968908": {
+      "seen_at": "2026-09-29T20:43:34+00:00"
     },
     "workday:citi:26968912": {
       "seen_at": "2026-08-04T13:42:51+00:00"
@@ -123589,6 +123604,9 @@
     },
     "workday:fmr:2136142": {
       "seen_at": "2026-09-29T15:42:11+00:00"
+    },
+    "workday:fmr:2136143": {
+      "seen_at": "2026-09-29T20:43:34+00:00"
     },
     "workday:fmr:2136151": {
       "seen_at": "2026-09-29T15:42:11+00:00"
@@ -153149,9 +153167,6 @@
     "workday:nvidia:JR2012481": {
       "seen_at": "2026-09-26T17:55:57+00:00"
     },
-    "workday:nvidia:JR2012538": {
-      "seen_at": "2026-07-31T20:38:15+00:00"
-    },
     "workday:nvidia:JR2012588": {
       "seen_at": "2026-08-11T16:51:34+00:00"
     },
@@ -154484,9 +154499,6 @@
     "workday:nvidia:JR2020906": {
       "seen_at": "2026-09-29T20:14:22+00:00"
     },
-    "workday:nvidia:JR2020916": {
-      "seen_at": "2026-07-31T20:38:15+00:00"
-    },
     "workday:nvidia:JR2020983": {
       "seen_at": "2026-09-22T10:11:22+00:00"
     },
@@ -154720,9 +154732,6 @@
     },
     "workday:nvidia:JR2021824": {
       "seen_at": "2026-08-15T00:26:22+00:00"
-    },
-    "workday:nvidia:JR2021836": {
-      "seen_at": "2026-07-31T20:38:14+00:00"
     },
     "workday:nvidia:JR2021837": {
       "seen_at": "2026-08-28T16:50:55+00:00"
@@ -154976,9 +154985,6 @@
     "workday:nvidia:JR2022401": {
       "seen_at": "2026-08-26T04:38:01+00:00"
     },
-    "workday:nvidia:JR2022403": {
-      "seen_at": "2026-07-31T20:38:15+00:00"
-    },
     "workday:nvidia:JR2022408": {
       "seen_at": "2026-08-03T04:34:15+00:00"
     },
@@ -155146,9 +155152,6 @@
     },
     "workday:nvidia:JR2022582": {
       "seen_at": "2026-08-03T04:34:15+00:00"
-    },
-    "workday:nvidia:JR2022583": {
-      "seen_at": "2026-07-31T20:38:15+00:00"
     },
     "workday:nvidia:JR2022585": {
       "seen_at": "2026-08-04T01:11:03+00:00"
@@ -158843,6 +158846,9 @@
     "workday:nvidia:JR2026242": {
       "seen_at": "2026-09-24T05:29:18+00:00"
     },
+    "workday:nvidia:JR2026244": {
+      "seen_at": "2026-09-29T20:43:34+00:00"
+    },
     "workday:nvidia:JR2026245": {
       "seen_at": "2026-09-29T02:53:11+00:00"
     },
@@ -159017,8 +159023,14 @@
     "workday:nvidia:JR2026569": {
       "seen_at": "2026-09-29T09:05:39+00:00"
     },
+    "workday:nvidia:JR2026576": {
+      "seen_at": "2026-09-29T20:43:33+00:00"
+    },
     "workday:nvidia:JR2026577": {
       "seen_at": "2026-09-28T23:50:56+00:00"
+    },
+    "workday:nvidia:JR2026584": {
+      "seen_at": "2026-09-29T20:43:34+00:00"
     },
     "workday:nvidia:JR2026616": {
       "seen_at": "2026-09-23T22:31:35+00:00"
@@ -164383,9 +164395,6 @@
     },
     "workday:rbc:R-0000164171": {
       "seen_at": "2026-08-12T14:08:27+00:00"
-    },
-    "workday:rbc:R-0000164201": {
-      "seen_at": "2026-07-31T20:38:15+00:00"
     },
     "workday:rbc:R-0000164266": {
       "seen_at": "2026-08-19T17:18:32+00:00"
@@ -190828,9 +190837,6 @@
     },
     "workday:td:R_1502868": {
       "seen_at": "2026-08-10T21:48:45+00:00"
-    },
-    "workday:td:R_1502870": {
-      "seen_at": "2026-07-31T20:38:15+00:00"
     },
     "workday:td:R_1502880": {
       "seen_at": "2026-08-04T17:43:57+00:00"
