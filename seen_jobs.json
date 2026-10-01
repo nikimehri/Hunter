@@ -142,13 +142,13 @@
       "consecutive_failures": 0,
       "warned_failures": false,
       "warned_zero": false,
-      "zero_since": "2026-10-01"
+      "zero_since": null
     },
     "github/SimplifyJobs/Summer2026-Internships": {
       "consecutive_failures": 0,
       "warned_failures": false,
       "warned_zero": false,
-      "zero_since": "2026-10-01"
+      "zero_since": null
     },
     "greenhouse/adyen": {
       "consecutive_failures": 0,
@@ -5981,6 +5981,9 @@
     "ashby:openai:152e4908-bc1f-4970-833a-a6a9c46f6a81": {
       "seen_at": "2026-09-15T14:30:00+00:00"
     },
+    "ashby:openai:15ff9f15-c986-4ac3-ac2e-cd0f029afbd5": {
+      "seen_at": "2026-10-01T21:36:49+00:00"
+    },
     "ashby:openai:16829ba8-031f-42cb-b74a-dfce835706ae": {
       "seen_at": "2026-09-22T21:27:53+00:00"
     },
@@ -10720,6 +10723,9 @@
     },
     "ashby:sierra:7053ca02-ee36-48cc-b331-9d795a966c4c": {
       "seen_at": "2026-09-06T17:48:10+00:00"
+    },
+    "ashby:sierra:705a6710-72c3-4991-9098-56de8c68fed6": {
+      "seen_at": "2026-10-01T21:36:49+00:00"
     },
     "ashby:sierra:7103380f-de16-4d28-968d-38fb5f0c9ce6": {
       "seen_at": "2026-08-05T04:20:00+00:00"
@@ -96758,6 +96764,15 @@
     "workday:cibc:2620007": {
       "seen_at": "2026-09-29T20:14:22+00:00"
     },
+    "workday:cibc:2620008": {
+      "seen_at": "2026-10-01T21:36:49+00:00"
+    },
+    "workday:cibc:2620010": {
+      "seen_at": "2026-10-01T21:36:49+00:00"
+    },
+    "workday:cibc:2620012": {
+      "seen_at": "2026-10-01T21:36:49+00:00"
+    },
     "workday:cibc:2620020": {
       "seen_at": "2026-09-29T20:14:22+00:00"
     },
@@ -96805,6 +96820,9 @@
     },
     "workday:cibc:2620203": {
       "seen_at": "2026-10-01T21:08:08+00:00"
+    },
+    "workday:cibc:2620204": {
+      "seen_at": "2026-10-01T21:36:49+00:00"
     },
     "workday:cibc:2620205": {
       "seen_at": "2026-10-01T21:08:08+00:00"
@@ -97513,6 +97531,9 @@
     },
     "workday:citi:26955994": {
       "seen_at": "2026-09-23T12:13:01+00:00"
+    },
+    "workday:citi:26956033": {
+      "seen_at": "2026-10-01T21:36:49+00:00"
     },
     "workday:citi:26956108": {
       "seen_at": "2026-08-25T09:57:04+00:00"
@@ -115435,6 +115456,9 @@
     },
     "workday:citi:26999317": {
       "seen_at": "2026-09-30T23:43:57+00:00"
+    },
+    "workday:citi:26999338": {
+      "seen_at": "2026-10-01T21:36:49+00:00"
     },
     "workday:citi:26999353": {
       "seen_at": "2026-10-01T21:08:08+00:00"
@@ -138860,6 +138884,9 @@
     "workday:intel:JR0287457": {
       "seen_at": "2026-09-25T19:18:24+00:00"
     },
+    "workday:intel:JR0287458": {
+      "seen_at": "2026-10-01T21:36:49+00:00"
+    },
     "workday:intel:JR0287465": {
       "seen_at": "2026-09-28T19:23:16+00:00"
     },
@@ -139021,6 +139048,9 @@
     },
     "workday:intel:JR0287634": {
       "seen_at": "2026-10-01T16:38:06+00:00"
+    },
+    "workday:intel:JR0287662": {
+      "seen_at": "2026-10-01T21:36:49+00:00"
     },
     "workday:intel:JR0287673": {
       "seen_at": "2026-10-01T21:08:08+00:00"
@@ -146077,6 +146107,9 @@
     },
     "workday:micron:JR106805": {
       "seen_at": "2026-08-20T23:54:52+00:00"
+    },
+    "workday:micron:JR106810": {
+      "seen_at": "2026-10-01T21:36:49+00:00"
     },
     "workday:micron:JR106811": {
       "seen_at": "2026-09-17T21:43:38+00:00"
@@ -169703,9 +169736,6 @@
     "workday:rbc:R-0000174603": {
       "seen_at": "2026-09-15T21:31:28+00:00"
     },
-    "workday:rbc:R-0000174621": {
-      "seen_at": "2026-08-02T21:34:01+00:00"
-    },
     "workday:rbc:R-0000174664": {
       "seen_at": "2026-08-18T15:59:06+00:00"
     },
@@ -170074,9 +170104,6 @@
     },
     "workday:rbc:R-0000178124": {
       "seen_at": "2026-08-19T20:11:30+00:00"
-    },
-    "workday:rbc:R-0000178144": {
-      "seen_at": "2026-08-02T21:34:01+00:00"
     },
     "workday:rbc:R-0000178157": {
       "seen_at": "2026-08-07T15:46:58+00:00"
@@ -181231,6 +181258,9 @@
     },
     "workday:salesforce:JR357983": {
       "seen_at": "2026-09-10T15:10:46+00:00"
+    },
+    "workday:salesforce:JR357985": {
+      "seen_at": "2026-10-01T21:36:49+00:00"
     },
     "workday:salesforce:JR358007": {
       "seen_at": "2026-09-22T18:28:57+00:00"
