@@ -148,7 +148,7 @@
       "consecutive_failures": 0,
       "warned_failures": false,
       "warned_zero": false,
-      "zero_since": null
+      "zero_since": "2026-10-03"
     },
     "greenhouse/adyen": {
       "consecutive_failures": 0,
@@ -11275,6 +11275,9 @@
     },
     "ashby:supabase:577bdf6d-f34b-4b9e-8d6b-b96776675c94": {
       "seen_at": "2026-09-12T21:30:24+00:00"
+    },
+    "ashby:supabase:59083a14-b2b6-4dd8-8037-739aa1ad1e22": {
+      "seen_at": "2026-10-03T21:35:05+00:00"
     },
     "ashby:supabase:590a0742-97f1-47f4-81a2-567efc939ae2": {
       "seen_at": "2026-09-29T20:21:44+00:00"
@@ -58250,6 +58253,9 @@
     "greenhouse:block:5379220008": {
       "seen_at": "2026-08-06T13:34:09+00:00"
     },
+    "greenhouse:block:5380010008": {
+      "seen_at": "2026-10-03T21:35:05+00:00"
+    },
     "greenhouse:block:5380495008": {
       "seen_at": "2026-08-07T19:39:12+00:00"
     },
@@ -63244,6 +63250,9 @@
     },
     "greenhouse:databricks:8653264002": {
       "seen_at": "2026-09-04T11:09:57+00:00"
+    },
+    "greenhouse:databricks:8654148002": {
+      "seen_at": "2026-10-03T21:35:05+00:00"
     },
     "greenhouse:databricks:8656202002": {
       "seen_at": "2026-09-28T12:05:36+00:00"
@@ -137939,6 +137948,9 @@
     "workday:interac:REQ-2162": {
       "seen_at": "2026-09-08T20:07:41+00:00"
     },
+    "workday:interac:REQ-2163": {
+      "seen_at": "2026-10-03T21:35:05+00:00"
+    },
     "workday:interac:REQ-2164": {
       "seen_at": "2026-09-06T17:48:10+00:00"
     },
@@ -204598,6 +204610,9 @@
     },
     "workday:zoom:R19464": {
       "seen_at": "2026-08-07T00:29:49+00:00"
+    },
+    "workday:zoom:R19487": {
+      "seen_at": "2026-10-03T21:35:05+00:00"
     },
     "workday:zoom:R19492": {
       "seen_at": "2026-08-05T11:42:42+00:00"
