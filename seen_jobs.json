@@ -142,13 +142,13 @@
       "consecutive_failures": 0,
       "warned_failures": false,
       "warned_zero": false,
-      "zero_since": "2026-10-08"
+      "zero_since": null
     },
     "github/SimplifyJobs/Summer2026-Internships": {
       "consecutive_failures": 0,
       "warned_failures": false,
       "warned_zero": false,
-      "zero_since": "2026-10-08"
+      "zero_since": null
     },
     "greenhouse/adyen": {
       "consecutive_failures": 0,
@@ -99872,6 +99872,9 @@
     "workday:citi:261000717": {
       "seen_at": "2026-10-06T23:18:20+00:00"
     },
+    "workday:citi:261000752": {
+      "seen_at": "2026-10-08T07:08:48+00:00"
+    },
     "workday:citi:261000787": {
       "seen_at": "2026-10-07T08:59:16+00:00"
     },
@@ -159887,9 +159890,6 @@
     "workday:nvidia:JR2019517": {
       "seen_at": "2026-09-14T22:08:18+00:00"
     },
-    "workday:nvidia:JR2019538": {
-      "seen_at": "2026-08-09T07:05:38+00:00"
-    },
     "workday:nvidia:JR2019559": {
       "seen_at": "2026-08-19T10:13:58+00:00"
     },
@@ -177281,9 +177281,6 @@
     "workday:redhat:R-058621": {
       "seen_at": "2026-09-09T04:54:28+00:00"
     },
-    "workday:redhat:R-058639": {
-      "seen_at": "2026-08-09T07:05:38+00:00"
-    },
     "workday:redhat:R-058643": {
       "seen_at": "2026-08-11T14:01:33+00:00"
     },
@@ -194467,6 +194464,12 @@
     },
     "workday:statestreet:R-799184": {
       "seen_at": "2026-10-08T06:47:47+00:00"
+    },
+    "workday:statestreet:R-799187": {
+      "seen_at": "2026-10-08T07:08:48+00:00"
+    },
+    "workday:statestreet:R-799190": {
+      "seen_at": "2026-10-08T07:08:48+00:00"
     },
     "workday:td:R_1395709": {
       "seen_at": "2026-08-14T13:41:29+00:00"
